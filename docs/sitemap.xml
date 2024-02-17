@@ -57,6 +57,11 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://americanmonk.org/posts/</loc>
+    <lastmod>2024-02-11T00:00:00+00:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://americanmonk.org/tags/</loc>
     <lastmod>2024-02-11T00:00:00+00:00</lastmod>
     <changefreq>monthly</changefreq>
@@ -1083,11 +1088,6 @@
     <priority>0.5</priority>
   </url><url>
     <loc>https://americanmonk.org/</loc>
-    <lastmod>2022-05-03T18:29:27+06:30</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://americanmonk.org/posts/</loc>
     <lastmod>2022-05-03T18:29:27+06:30</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
@@ -5029,10 +5029,6 @@
   </url><url>
     <loc>https://americanmonk.org/posts/very-beautiful-video/</loc>
     <lastmod>2013-06-12T00:00:00+00:00</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://americanmonk.org/posts/my-first-post/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>

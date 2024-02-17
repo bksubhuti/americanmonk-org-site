@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/IMG_20171004_202546.jpg
-featured_image: /images/images/IMG_20171004_202546.jpg
+image: /images/IMG_20171004_202546.jpg
+featured_image: /images/IMG_20171004_202546.jpg
 ---
 
 [![](/images/IMG_20150124_1652492-842x1024.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/IMG_20150124_1652492.jpg)

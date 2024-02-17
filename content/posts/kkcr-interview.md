@@ -14,8 +14,8 @@ tags:
   - radio-interview
 authors: 
   - bksubhuti
-image: /images/images/Telecommunication-Tower-Wave-Radio-Broadcast-.png
-featured_image: /images/images/Telecommunication-Tower-Wave-Radio-Broadcast-.png
+image: /images/Telecommunication-Tower-Wave-Radio-Broadcast-.png
+featured_image: /images/Telecommunication-Tower-Wave-Radio-Broadcast-.png
 ---
 
 ![Radio Tower ](/images/Telecommunication-Tower-Wave-Radio-Broadcast--273x300.png)

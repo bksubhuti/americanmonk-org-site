@@ -9,8 +9,8 @@ tags:
   - wedding
 authors: 
   - bksubhuti
-image: /images/images/birdseatingrice.jpg
-featured_image: /images/images/birdseatingrice.jpg
+image: /images/birdseatingrice.jpg
+featured_image: /images/birdseatingrice.jpg
 ---
 
 [![birdseatingrice](/images/birdseatingrice.jpg)](/images/2016/12/birdseatingrice.jpg)

@@ -9,8 +9,8 @@ tags:
   - tutorial
 authors: 
   - bksubhuti
-image: /images/images/needlecase.png
-featured_image: /images/images/needlecase.png
+image: /images/needlecase.png
+featured_image: /images/needlecase.png
 ---
 
 [![](/images/needlecase.png)](/images/2018/01/needlecase.png)

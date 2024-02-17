@@ -5,8 +5,8 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/images/bowl.jpg
-featured_image: /images/images/bowl.jpg
+image: /images/bowl.jpg
+featured_image: /images/bowl.jpg
 ---
 
 [![](/images/bowl.jpg)](/images/2016/10/bowl.jpg)

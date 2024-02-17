@@ -12,8 +12,8 @@ tags:
   - walk-with-jesus
 authors: 
   - bksubhuti
-image: /images/images/cross-argue.png
-featured_image: /images/images/cross-argue.png
+image: /images/cross-argue.png
+featured_image: /images/cross-argue.png
 ---
 
 [![](/images/cross-argue-300x200.png)](https://americanmonk.org/wp-content/uploads/cross-argue.png)

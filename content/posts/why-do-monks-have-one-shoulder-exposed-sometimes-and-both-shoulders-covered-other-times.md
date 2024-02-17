@@ -6,8 +6,8 @@ categories:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/ajahnandmeelgin.jpg
-featured_image: /images/images/ajahnandmeelgin.jpg
+image: /images/ajahnandmeelgin.jpg
+featured_image: /images/ajahnandmeelgin.jpg
 ---
 
 ![](/images/mehianna-576x1024.png)

@@ -10,8 +10,8 @@ tags:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/lunchBell-scaled.jpg
-featured_image: /images/images/lunchBell-scaled.jpg
+image: /images/lunchBell-scaled.jpg
+featured_image: /images/lunchBell-scaled.jpg
 ---
 
 I remember when I was living in Kaua'i in a tent propped up in the corner of my friend Uncle Gene Taylor's property. I had just come home from my daily alms round and I popped into his room to say hello. He is old and has difficulty walking, yet he is usually quite cheerful. As part of the visit routine, he asked me how my day was and I smiled and happily said, "Today was a great day. I got enough food today." I always get enough food, but that day, it was a little easier.

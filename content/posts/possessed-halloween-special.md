@@ -7,8 +7,8 @@ tags:
   - yakkha
 authors: 
   - bksubhuti
-image: /images/images/demon.jpg
-featured_image: /images/images/demon.jpg
+image: /images/demon.jpg
+featured_image: /images/demon.jpg
 ---
 
 [![](/images/demon.jpg)](/images/2017/10/demon.jpg)

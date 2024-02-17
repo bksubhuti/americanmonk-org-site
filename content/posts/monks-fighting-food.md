@@ -11,8 +11,8 @@ tags:
   - mudon
 authors: 
   - bksubhuti
-image: /images/images/durianfight.jpg
-featured_image: /images/images/durianfight.jpg
+image: /images/durianfight.jpg
+featured_image: /images/durianfight.jpg
 ---
 
  

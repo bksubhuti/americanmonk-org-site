@@ -16,8 +16,8 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/images/20180516_094919-e1526506667615.jpg
-featured_image: /images/images/20180516_094919-e1526506667615.jpg
+image: /images/20180516_094919-e1526506667615.jpg
+featured_image: /images/20180516_094919-e1526506667615.jpg
 ---
 
 \[caption id="attachment\_1264" align="alignnone" width="708"\][![](/images/20180516_094919-e1526506667615-768x1024.jpg)](/images/2018/05/20180516_094919-e1526506667615.jpg) That is me going for alms on Aalona Street Kilauea.\[/caption\]

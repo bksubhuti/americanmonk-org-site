@@ -8,8 +8,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/monkline.jpg
-featured_image: /images/images/monkline.jpg
+image: /images/monkline.jpg
+featured_image: /images/monkline.jpg
 ---
 
 \[caption id="attachment\_786" align="alignnone" width="764"\][![Sima of Varanasi Monastery](/images/sima3.jpg)](/images/2016/05/sima3.jpg) Sima of Varanasi Monastery\[/caption\]

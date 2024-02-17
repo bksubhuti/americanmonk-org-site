@@ -16,8 +16,8 @@ tags:
   - paauk
 authors: 
   - bksubhuti
-image: /images/images/anzotti.com_.png
-featured_image: /images/images/anzotti.com_.png
+image: /images/anzotti.com_.png
+featured_image: /images/anzotti.com_.png
 ---
 
 ![](/images/anzotti.com_-1024x566.png)

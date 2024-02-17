@@ -10,8 +10,8 @@ tags:
   - varansi
 authors: 
   - bksubhuti
-image: /images/images/smallpackofNovices.jpg
-featured_image: /images/images/smallpackofNovices.jpg
+image: /images/smallpackofNovices.jpg
+featured_image: /images/smallpackofNovices.jpg
 ---
 
 [![](/images/smallpackofNovices.jpg)](/images/2017/06/smallpackofNovices.jpg)

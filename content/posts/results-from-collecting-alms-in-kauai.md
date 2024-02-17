@@ -11,8 +11,8 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: /images/images/alms-map-kilauea.jpg
-featured_image: /images/images/alms-map-kilauea.jpg
+image: /images/alms-map-kilauea.jpg
+featured_image: /images/alms-map-kilauea.jpg
 ---
 
  

@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/noks-farm-rainbow.jpg
-featured_image: /images/images/noks-farm-rainbow.jpg
+image: /images/noks-farm-rainbow.jpg
+featured_image: /images/noks-farm-rainbow.jpg
 ---
 
 I am still happy to report that things are continuing to go well. However, we did have a small hiccup, OK, a big one. We moved.

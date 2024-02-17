@@ -7,8 +7,8 @@ categories:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/singingbowl.jpg
-featured_image: /images/images/singingbowl.jpg
+image: /images/singingbowl.jpg
+featured_image: /images/singingbowl.jpg
 ---
 
 [![](/images/singingbowl.jpg)](/images/2017/03/singingbowl.jpg)

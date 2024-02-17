@@ -14,8 +14,8 @@ tags:
   - sri-lanka
 authors: 
   - bksubhuti
-image: /images/images/monk5percent.jpg
-featured_image: /images/images/monk5percent.jpg
+image: /images/monk5percent.jpg
+featured_image: /images/monk5percent.jpg
 ---
 
 ![](/images/monk5percent.jpg)

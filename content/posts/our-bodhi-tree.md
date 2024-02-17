@@ -10,8 +10,8 @@ tags:
   - vandana
 authors: 
   - bksubhuti
-image: /images/images/subhutibodhi.jpg
-featured_image: /images/images/subhutibodhi.jpg
+image: /images/subhutibodhi.jpg
+featured_image: /images/subhutibodhi.jpg
 ---
 
 There is a Bodhi Tree on our property and we sometimes do a vandana (chanting) in front of this tree rather than at the gazebo. We did one tonight until a passing rain cloud sprinkled on us.

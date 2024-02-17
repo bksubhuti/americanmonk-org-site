@@ -17,8 +17,8 @@ tags:
   - where-to-ordain
 authors: 
   - bksubhuti
-image: /images/images/Hall_iit2.jpg
-featured_image: /images/images/Hall_iit2.jpg
+image: /images/Hall_iit2.jpg
+featured_image: /images/Hall_iit2.jpg
 ---
 
 ![](/images/Hall_iit2.jpg)

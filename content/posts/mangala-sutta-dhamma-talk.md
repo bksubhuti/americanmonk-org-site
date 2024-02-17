@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/images/Screenshot_2015-11-29-14-04-15.png
-featured_image: /images/images/Screenshot_2015-11-29-14-04-15.png
+image: /images/Screenshot_2015-11-29-14-04-15.png
+featured_image: /images/Screenshot_2015-11-29-14-04-15.png
 ---
 
 [![Mangala3 audio](/images/Screenshot_2015-11-29-14-04-15.png)](/images/2015/11/Screenshot_2015-11-29-14-04-15.png)

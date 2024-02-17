@@ -8,8 +8,8 @@ tags:
   - ordination
 authors: 
   - bksubhuti
-image: /images/images/me-earliest.jpg
-featured_image: /images/images/me-earliest.jpg
+image: /images/me-earliest.jpg
+featured_image: /images/me-earliest.jpg
 ---
 
 ![](/images/me-earliest.jpg)

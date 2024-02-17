@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/images/freespirit01.png
-featured_image: /images/images/freespirit01.png
+image: /images/freespirit01.png
+featured_image: /images/freespirit01.png
 ---
 
 [![freespirit~01](/images/freespirit01.png)](/images/2015/10/freespirit01.png)

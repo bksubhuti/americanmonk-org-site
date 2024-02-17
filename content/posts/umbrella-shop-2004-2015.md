@@ -11,8 +11,8 @@ tags:
   - vassa
 authors: 
   - bksubhuti
-image: /images/images/umbrella.jpg
-featured_image: /images/images/umbrella.jpg
+image: /images/umbrella.jpg
+featured_image: /images/umbrella.jpg
 ---
 
 ![](/images/umbrella_walk.jpg)

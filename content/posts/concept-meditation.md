@@ -11,8 +11,8 @@ tags:
   - samatha
 authors: 
   - bksubhuti
-image: /images/images/concept.jpg
-featured_image: /images/images/concept.jpg
+image: /images/concept.jpg
+featured_image: /images/concept.jpg
 ---
 
 [![](/images/concept-1024x683.jpg)](/images/2018/06/concept.jpg)

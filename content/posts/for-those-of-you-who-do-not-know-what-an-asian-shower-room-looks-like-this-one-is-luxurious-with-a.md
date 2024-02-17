@@ -8,8 +8,8 @@ tags:
   - asian-shower
 authors: 
   - bksubhuti
-image: /images/images/asian-shower-rotated.jpg
-featured_image: /images/images/asian-shower-rotated.jpg
+image: /images/asian-shower-rotated.jpg
+featured_image: /images/asian-shower-rotated.jpg
 ---
 
 For those of you who do not know what an Asian shower room looks like! This one is luxurious with a stainless steel water bowl! Ahhh! I often prefer this method over a shower head (This shower room does not have one, but if it did I would still prefer this method). A long time ago, Westerners did this too. The toilet is inside the same room too, not shown.

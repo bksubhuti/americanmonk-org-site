@@ -15,8 +15,8 @@ tags:
   - rupa
 authors: 
   - bksubhuti
-image: /images/images/Einstein_formula_on_blackboard.jpg
-featured_image: /images/images/Einstein_formula_on_blackboard.jpg
+image: /images/Einstein_formula_on_blackboard.jpg
+featured_image: /images/Einstein_formula_on_blackboard.jpg
 ---
 
 ![](/images/Einstein_formula_on_blackboard.jpg)

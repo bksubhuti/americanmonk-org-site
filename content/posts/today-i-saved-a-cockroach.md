@@ -10,8 +10,8 @@ tags:
   - save
 authors: 
   - bksubhuti
-image: /images/images/640px-Amerikanische_Grosschabe_1.jpeg
-featured_image: /images/images/640px-Amerikanische_Grosschabe_1.jpeg
+image: /images/640px-Amerikanische_Grosschabe_1.jpeg
+featured_image: /images/640px-Amerikanische_Grosschabe_1.jpeg
 ---
 
 ![](/images/640px-Amerikanische_Grosschabe_1.jpeg)

@@ -7,8 +7,8 @@ tags:
   - learn-pali
 authors: 
   - bksubhuti
-image: /images/images/asoka.png
-featured_image: /images/images/asoka.png
+image: /images/asoka.png
+featured_image: /images/asoka.png
 ---
 
 ## NOTE: Tipitaka Pāḷi Reader is the new Pāḷi Reading app. Click link below:

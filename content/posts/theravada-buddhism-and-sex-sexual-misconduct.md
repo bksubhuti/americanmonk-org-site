@@ -11,8 +11,8 @@ tags:
   - third-precept
 authors: 
   - bksubhuti
-image: /images/images/couple.jpg
-featured_image: /images/images/couple.jpg
+image: /images/couple.jpg
+featured_image: /images/couple.jpg
 ---
 
 [![](/images/couple.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/couple.jpg)

@@ -13,8 +13,8 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/images/mabathaopenletter.jpg
-featured_image: /images/images/mabathaopenletter.jpg
+image: /images/mabathaopenletter.jpg
+featured_image: /images/mabathaopenletter.jpg
 ---
 
 \[caption id="attachment\_793" align="alignnone" width="1200"\][![Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness](/images/mabathaopenletter.jpg)](/images/2016/06/mabathaopenletter.jpg) Top: Ma Ba Tha conference Bottom: Reaching out to Muslims to show loving-kindness\[/caption\]

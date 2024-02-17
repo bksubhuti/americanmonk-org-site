@@ -13,8 +13,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/IMG_20141008_104709-e1522319106715.jpg
-featured_image: /images/images/IMG_20141008_104709-e1522319106715.jpg
+image: /images/IMG_20141008_104709-e1522319106715.jpg
+featured_image: /images/IMG_20141008_104709-e1522319106715.jpg
 ---
 
 \[caption id="attachment\_1211" align="alignnone" width="400"\][![muslim dana](/images/IMG_20141008_104709-e1522319106715-768x1024.jpg)](/images/2018/03/IMG_20141008_104709-e1522319106715.jpg) Muslim Imam giving dana\[/caption\]

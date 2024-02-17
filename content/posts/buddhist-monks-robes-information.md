@@ -12,8 +12,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/robepattern.png
-featured_image: /images/images/robepattern.png
+image: /images/robepattern.png
+featured_image: /images/robepattern.png
 ---
 
 \[caption id="attachment\_1367" align="alignnone" width="708"\][![](/images/robepattern-998x1024.png)](/images/2018/08/robepattern.png) Sewing pattern from BMC 1 (creative-commons, Thanissaro Bhikkhu)\[/caption\]

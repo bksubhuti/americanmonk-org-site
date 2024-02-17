@@ -16,8 +16,8 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/images/theravada-monk-free-pic.jpg
-featured_image: /images/images/theravada-monk-free-pic.jpg
+image: /images/theravada-monk-free-pic.jpg
+featured_image: /images/theravada-monk-free-pic.jpg
 ---
 
 [![](/images/theravada-monk-free-pic.jpg)](https://americanmonk.org/wp-content/uploads/theravada-monk-free-pic.jpg) Downloaded from https://www.needpix.com

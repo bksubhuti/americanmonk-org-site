@@ -6,8 +6,8 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/images/meAtItbmu.jpg
-featured_image: /images/images/meAtItbmu.jpg
+image: /images/meAtItbmu.jpg
+featured_image: /images/meAtItbmu.jpg
 ---
 
 [![](/images/meAtItbmu-768x1024.jpg)](/images/2018/02/meAtItbmu.jpg)

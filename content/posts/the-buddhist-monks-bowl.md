@@ -15,8 +15,8 @@ tags:
   - theravada-monk-bowl
 authors: 
   - bksubhuti
-image: /images/images/theravada-buddhism-1769541_1280.jpg
-featured_image: /images/images/theravada-buddhism-1769541_1280.jpg
+image: /images/theravada-buddhism-1769541_1280.jpg
+featured_image: /images/theravada-buddhism-1769541_1280.jpg
 ---
 
 ![](/images/theravada-buddhism-1769541_1280-1024x681.jpg)

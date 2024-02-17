@@ -18,8 +18,8 @@ tags:
   - wheel
 authors: 
   - bksubhuti
-image: /images/images/hand-candle.jpg
-featured_image: /images/images/hand-candle.jpg
+image: /images/hand-candle.jpg
+featured_image: /images/hand-candle.jpg
 ---
 
 ![](/images/hand-candle.jpg)

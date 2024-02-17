@@ -7,8 +7,8 @@ tags:
   - school
 authors: 
   - bksubhuti
-image: /images/images/hang-glider.png
-featured_image: /images/images/hang-glider.png
+image: /images/hang-glider.png
+featured_image: /images/hang-glider.png
 ---
 
 [![hang-glider](/images/hang-glider.png)](/images/2016/09/hang-glider.png) Below is a Wrigley’s TV commercial from the 80s which started my lifelong dream to hang-glide and a genuine excuse to get educated.  Whenever I saw this commercial as a child, my jaw was to the floor.  It was something I had always wanted to do. Thanks to youtube, I can trace it all back.

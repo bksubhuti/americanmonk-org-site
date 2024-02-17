@@ -7,8 +7,8 @@ tags:
   - parental-permission
 authors: 
   - bksubhuti
-image: /images/images/permission3.png
-featured_image: /images/images/permission3.png
+image: /images/permission3.png
+featured_image: /images/permission3.png
 ---
 
 Here is a post with a video link on how I got permission from my parents. In early 2001, when I was in Myanmar, and traveling for 1.5 years, I called my parents and asked them for permission to ordain as a monk. I didn't get permission at first and then I told them I would never see them again if I didn't get permission.

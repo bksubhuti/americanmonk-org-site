@@ -9,8 +9,8 @@ tags:
   - halloween
 authors: 
   - bksubhuti
-image: /images/images/oct31-halloween-pexels-александар-цветановић-1480861.jpg
-featured_image: /images/images/oct31-halloween-pexels-александар-цветановић-1480861.jpg
+image: /images/oct31-halloween-pexels-александар-цветановић-1480861.jpg
+featured_image: /images/oct31-halloween-pexels-александар-цветановић-1480861.jpg
 ---
 
 ![](/images/oct31-halloween-pexels-александар-цветановић-1480861-1024x682.jpg)

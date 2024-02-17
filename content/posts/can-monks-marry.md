@@ -8,8 +8,8 @@ tags:
   - monk
 authors: 
   - bksubhuti
-image: /images/images/marry.png
-featured_image: /images/images/marry.png
+image: /images/marry.png
+featured_image: /images/marry.png
 ---
 
 ![](/images/marry.png)

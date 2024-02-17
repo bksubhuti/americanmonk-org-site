@@ -14,8 +14,8 @@ tags:
   - subhuti
 authors: 
   - bksubhuti
-image: /images/images/digiheart.png
-featured_image: /images/images/digiheart.png
+image: /images/digiheart.png
+featured_image: /images/digiheart.png
 ---
 
 [![](/images/digiheart-1024x695.png)](https://americanmonk.org/wp-content/uploads/2018/09/digiheart.png)

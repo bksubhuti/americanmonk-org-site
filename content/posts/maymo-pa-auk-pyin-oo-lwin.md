@@ -6,8 +6,8 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/images/godd-topview2_modified-1024x1024.jpg
-featured_image: /images/images/godd-topview2_modified-1024x1024.jpg
+image: /images/godd-topview2_modified-1024x1024.jpg
+featured_image: /images/godd-topview2_modified-1024x1024.jpg
 ---
 
 \[caption id="attachment\_1024" align="alignnone" width="1024"\][![](/images/godd-topview2_modified-1024x1024.jpg)](/images/2017/05/godd-topview2_modified-1024x1024.jpg) Drone View\[/caption\]

@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/fetus.jpg
-featured_image: /images/images/fetus.jpg
+image: /images/fetus.jpg
+featured_image: /images/fetus.jpg
 ---
 
 [![fetus](/images/fetus.jpg)](/images/2016/12/fetus.jpg)

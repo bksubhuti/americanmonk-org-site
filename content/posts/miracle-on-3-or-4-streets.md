@@ -11,8 +11,8 @@ tags:
   - devi
 authors: 
   - bksubhuti
-image: /images/images/buddhaglue.jpg
-featured_image: /images/images/buddhaglue.jpg
+image: /images/buddhaglue.jpg
+featured_image: /images/buddhaglue.jpg
 ---
 
 ![](/images/buddhaglue-576x1024.jpg)

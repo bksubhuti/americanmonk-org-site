@@ -12,8 +12,8 @@ tags:
   - youtube
 authors: 
   - bksubhuti
-image: /images/images/8foldpath.png
-featured_image: /images/images/8foldpath.png
+image: /images/8foldpath.png
+featured_image: /images/8foldpath.png
 ---
 
 ![](/images/8foldpath-1024x607.png)

@@ -9,8 +9,8 @@ tags:
   - water
 authors: 
   - bksubhuti
-image: /images/images/testing-our-water.jpg
-featured_image: /images/images/testing-our-water.jpg
+image: /images/testing-our-water.jpg
+featured_image: /images/testing-our-water.jpg
 ---
 
 ![](/images/waterdiagram-1024x681.jpg)

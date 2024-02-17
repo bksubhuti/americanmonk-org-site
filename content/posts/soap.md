@@ -11,8 +11,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/subhuttowelsoaptitle.png
-featured_image: /images/images/subhuttowelsoaptitle.png
+image: /images/subhuttowelsoaptitle.png
+featured_image: /images/subhuttowelsoaptitle.png
 ---
 
 Very few people from the West know about what the monks use for their bath towels and their bathing soap. Monks use items that are much different than those found in the West, although commonly known in Myanmar and other Buddhist countries. Furthermore, the monks use these items because of the monk rules associated with them in addition to the abundance and low cost.

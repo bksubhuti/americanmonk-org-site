@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/images/fb-bless-kilauea.jpg
-featured_image: /images/images/fb-bless-kilauea.jpg
+image: /images/fb-bless-kilauea.jpg
+featured_image: /images/fb-bless-kilauea.jpg
 ---
 
 Yesterday, I had spoken about how someone took our pictures and who said something like, "I just wanted to tell you (her hand was now over her heart) how much ...what you do means to me. I really want to thank you for what you are doing!"

@@ -10,8 +10,8 @@ tags:
   - visuddhimagga
 authors: 
   - bksubhuti
-image: /images/images/secretwheel.png
-featured_image: /images/images/secretwheel.png
+image: /images/secretwheel.png
+featured_image: /images/secretwheel.png
 ---
 
 [![](/images/secretwheel.png)](/images/2018/08/secretwheel.png)

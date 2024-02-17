@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/20150807_064958.jpg
-featured_image: /images/images/20150807_064958.jpg
+image: /images/20150807_064958.jpg
+featured_image: /images/20150807_064958.jpg
 ---
 
 My view this morning after chanting and meditation.

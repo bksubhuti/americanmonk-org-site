@@ -11,8 +11,8 @@ tags:
   - pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/images/k123.jpg
-featured_image: /images/images/k123.jpg
+image: /images/k123.jpg
+featured_image: /images/k123.jpg
 ---
 
 A kuṭi is a small hut or lodging that a monk lives in and it is one of the basic four requisites: Robes, Food, Lodging, & Medicine. They come in various sizes and qualities and I have prepared a small showcase of pictures which can show more than just the words. We are supposed to reflect on the utilitarian purpose of the lodging, also called senāsana. Before we begin, here is a small sample of the morning chanting monks must chant everyday.

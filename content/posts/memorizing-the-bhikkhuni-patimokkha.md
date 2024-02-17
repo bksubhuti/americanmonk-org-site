@@ -15,8 +15,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/paliscript.jpg
-featured_image: /images/images/paliscript.jpg
+image: /images/paliscript.jpg
+featured_image: /images/paliscript.jpg
 ---
 
 ![](/images/paliscript.jpg)

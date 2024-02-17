@@ -12,8 +12,8 @@ tags:
   - travel
 authors: 
   - bksubhuti
-image: /images/images/cooler.jpg
-featured_image: /images/images/cooler.jpg
+image: /images/cooler.jpg
+featured_image: /images/cooler.jpg
 ---
 
 [![cooler](/images/cooler.jpg)](/images/2016/05/cooler.jpg)

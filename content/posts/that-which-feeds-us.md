@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/aina.png
-featured_image: /images/images/aina.png
+image: /images/aina.png
+featured_image: /images/aina.png
 ---
 
 This video is probably the most beautiful and entertaining environmental message on Kauai, GMO and agriculture you will ever see. A "Wow!" for all 22:55 minutes!

@@ -12,8 +12,8 @@ tags:
   - wat-pa-nanachat
 authors: 
   - bksubhuti
-image: /images/images/health-chocolate01-lg.jpg
-featured_image: /images/images/health-chocolate01-lg.jpg
+image: /images/health-chocolate01-lg.jpg
+featured_image: /images/health-chocolate01-lg.jpg
 ---
 
 [![](/images/health-chocolate01-lg-1024x788.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/health-chocolate01-lg.jpg)

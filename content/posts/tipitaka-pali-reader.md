@@ -11,8 +11,8 @@ tags:
   - tpr
 authors: 
   - bksubhuti
-image: /images/images/TPR-billboard.png
-featured_image: /images/images/TPR-billboard.png
+image: /images/TPR-billboard.png
+featured_image: /images/TPR-billboard.png
 ---
 
 ![](/images/TPR-billboard-1024x577.png)

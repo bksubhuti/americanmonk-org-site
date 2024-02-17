@@ -12,8 +12,8 @@ tags:
   - wat-khao-sanamchai
 authors: 
   - bksubhuti
-image: /images/images/2019122318244700.jpg
-featured_image: /images/images/2019122318244700.jpg
+image: /images/2019122318244700.jpg
+featured_image: /images/2019122318244700.jpg
 ---
 
 ![](/images/2019122318244700-1024x768.jpg)

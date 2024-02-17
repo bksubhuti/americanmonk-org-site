@@ -13,8 +13,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/patimokkhabook.jpg
-featured_image: /images/images/patimokkhabook.jpg
+image: /images/patimokkhabook.jpg
+featured_image: /images/patimokkhabook.jpg
 ---
 
 [![](/images/patimokkhabook.jpg)](/images/2017/10/patimokkhabook.jpg)

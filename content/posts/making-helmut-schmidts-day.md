@@ -10,8 +10,8 @@ tags:
   - metta
 authors: 
   - bksubhuti
-image: /images/images/HelmutSchmidt-Day.png
-featured_image: /images/images/HelmutSchmidt-Day.png
+image: /images/HelmutSchmidt-Day.png
+featured_image: /images/HelmutSchmidt-Day.png
 ---
 
 [![helmutschmidt-day](/images/HelmutSchmidt-Day.png)](/images/2016/09/HelmutSchmidt-Day.png)

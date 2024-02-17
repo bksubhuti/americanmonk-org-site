@@ -8,8 +8,8 @@ tags:
   - story
 authors: 
   - bksubhuti
-image: /images/images/slippers-kuti.resized.jpg
-featured_image: /images/images/slippers-kuti.resized.jpg
+image: /images/slippers-kuti.resized.jpg
+featured_image: /images/slippers-kuti.resized.jpg
 ---
 
 ![](/images/mybowl-nov24-1024x768.jpg)

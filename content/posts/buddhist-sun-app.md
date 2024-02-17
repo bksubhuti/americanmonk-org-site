@@ -12,8 +12,8 @@ tags:
   - zenith
 authors: 
   - bksubhuti
-image: /images/images/buddhist_sun_logo4.png
-featured_image: /images/images/buddhist_sun_logo4.png
+image: /images/buddhist_sun_logo4.png
+featured_image: /images/buddhist_sun_logo4.png
 ---
 
 ![](/images/buddhist_sun_logo4.png)

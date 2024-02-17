@@ -12,8 +12,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/planc.jpg
-featured_image: /images/images/planc.jpg
+image: /images/planc.jpg
+featured_image: /images/planc.jpg
 ---
 
 [![](/images/planc.jpg)](/images/2017/12/planc.jpg)

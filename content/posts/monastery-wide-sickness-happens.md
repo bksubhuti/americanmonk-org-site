@@ -10,8 +10,8 @@ tags:
   - sickness
 authors: 
   - bksubhuti
-image: /images/images/sicknoticeenglish.jpg
-featured_image: /images/images/sicknoticeenglish.jpg
+image: /images/sicknoticeenglish.jpg
+featured_image: /images/sicknoticeenglish.jpg
 ---
 
 While I have said quite a lot to inspire people about life as a monk around the world. I should give you both sides of the story to be fair.

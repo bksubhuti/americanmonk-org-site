@@ -11,8 +11,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/no-facebook.png
-featured_image: /images/images/no-facebook.png
+image: /images/no-facebook.png
+featured_image: /images/no-facebook.png
 ---
 
 [![](/images/no-facebook.png)](/images/2018/01/no-facebook.png)

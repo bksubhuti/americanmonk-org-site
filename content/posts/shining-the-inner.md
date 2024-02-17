@@ -14,8 +14,8 @@ tags:
   - viral
 authors: 
   - bksubhuti
-image: /images/images/meinbagan.jpg
-featured_image: /images/images/meinbagan.jpg
+image: /images/meinbagan.jpg
+featured_image: /images/meinbagan.jpg
 ---
 
 [![](/images/meinbagan.jpg)](/images/2017/01/meinbagan.jpg)

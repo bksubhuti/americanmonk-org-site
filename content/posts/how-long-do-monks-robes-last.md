@@ -11,8 +11,8 @@ tags:
   - last
 authors: 
   - bksubhuti
-image: /images/images/kathina2021.jpg
-featured_image: /images/images/kathina2021.jpg
+image: /images/kathina2021.jpg
+featured_image: /images/kathina2021.jpg
 ---
 
 ![](/images/kathina-2021-1.jpg)

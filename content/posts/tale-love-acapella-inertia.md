@@ -12,8 +12,8 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: /images/images/acapellainertia-story.png
-featured_image: /images/images/acapellainertia-story.png
+image: /images/acapellainertia-story.png
+featured_image: /images/acapellainertia-story.png
 ---
 
 # [![](/images/acapellainertia-story-768x1024.png)](/images/2018/02/acapellainertia-story.png)

@@ -12,8 +12,8 @@ tags:
   - paauk
 authors: 
   - bksubhuti
-image: /images/images/IMG_20141101_173938-e1449872666312.jpg
-featured_image: /images/images/IMG_20141101_173938-e1449872666312.jpg
+image: /images/IMG_20141101_173938-e1449872666312.jpg
+featured_image: /images/IMG_20141101_173938-e1449872666312.jpg
 ---
 
 \[caption id="attachment\_697" align="alignleft" width="1920"\][![From the pamc lookout](/images/IMG_20141101_173938-e1449872666312.jpg)](/images/2015/12/IMG_20141101_173938-e1449872666312.jpg) From the pamc lookout\[/caption\]

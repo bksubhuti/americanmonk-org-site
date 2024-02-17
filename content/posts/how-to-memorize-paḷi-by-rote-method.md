@@ -11,8 +11,8 @@ tags:
   - patimokkha
 authors: 
   - bksubhuti
-image: /images/images/subhutiMemPalititle.png
-featured_image: /images/images/subhutiMemPalititle.png
+image: /images/subhutiMemPalititle.png
+featured_image: /images/subhutiMemPalititle.png
 ---
 
 ![](/images/subhutiMemPalititle-1024x576.png)

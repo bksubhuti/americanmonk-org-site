@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/birdsanctuary.jpg
-featured_image: /images/images/birdsanctuary.jpg
+image: /images/birdsanctuary.jpg
+featured_image: /images/birdsanctuary.jpg
 ---
 
 Report on Kauai

@@ -13,8 +13,8 @@ tags:
   - names
 authors: 
   - bksubhuti
-image: /images/images/monkseal-wikipedia.jpg
-featured_image: /images/images/monkseal-wikipedia.jpg
+image: /images/monkseal-wikipedia.jpg
+featured_image: /images/monkseal-wikipedia.jpg
 ---
 
 > # Bhikkhu Subhuti’s Blog has moved!

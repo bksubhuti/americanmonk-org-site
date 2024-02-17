@@ -10,8 +10,8 @@ tags:
   - vipassana
 authors: 
   - bksubhuti
-image: /images/images/goenka.png
-featured_image: /images/images/goenka.png
+image: /images/goenka.png
+featured_image: /images/goenka.png
 ---
 
 [![](/images/vipassana-site.png)](https://americanmonk.org/wp-content/uploads/2018/11/vipassana-site.png)

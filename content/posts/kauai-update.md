@@ -9,8 +9,8 @@ tags:
   - monk-life
 authors: 
   - bksubhuti
-image: /images/images/IMG_0576-e1524374761899.jpg
-featured_image: /images/images/IMG_0576-e1524374761899.jpg
+image: /images/IMG_0576-e1524374761899.jpg
+featured_image: /images/IMG_0576-e1524374761899.jpg
 ---
 
 [![](/images/IMG_0576-e1524374761899-768x1024.jpg)](/images/2018/04/IMG_0576-e1524374761899.jpg)

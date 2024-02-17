@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/images/mangala2.png
-featured_image: /images/images/mangala2.png
+image: /images/mangala2.png
+featured_image: /images/mangala2.png
 ---
 
 HERE IS AN UNEDITED version of the Dhammatalk on the Mahamangala Sutta #2. There is quite a bit of silence in the beginning, so please be patient. [Download here](https://archive.org/details/managala2)

@@ -12,8 +12,8 @@ tags:
   - sammasambuddhassa
 authors: 
   - bksubhuti
-image: /images/images/wp-1608279208032-edited.jpg
-featured_image: /images/images/wp-1608279208032-edited.jpg
+image: /images/wp-1608279208032-edited.jpg
+featured_image: /images/wp-1608279208032-edited.jpg
 ---
 
 ![](/images/namo-cover.png)

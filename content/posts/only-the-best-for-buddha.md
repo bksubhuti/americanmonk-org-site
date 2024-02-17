@@ -13,8 +13,8 @@ tags:
   - vesak
 authors: 
   - bksubhuti
-image: /images/images/buddhist-flag-rotated.jpg
-featured_image: /images/images/buddhist-flag-rotated.jpg
+image: /images/buddhist-flag-rotated.jpg
+featured_image: /images/buddhist-flag-rotated.jpg
 ---
 
 ![](/images/buddhist-flag-rotated.jpg)

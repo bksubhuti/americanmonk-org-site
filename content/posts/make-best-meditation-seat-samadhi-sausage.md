@@ -14,8 +14,8 @@ tags:
   - sausage
 authors: 
   - bksubhuti
-image: /images/images/sitting-sausage.jpg
-featured_image: /images/images/sitting-sausage.jpg
+image: /images/sitting-sausage.jpg
+featured_image: /images/sitting-sausage.jpg
 ---
 
 [![pdficon](/images/pdficon.jpeg)](assets/samadhi-sausage.pdf) [Download Free A4 format PDF](assets/samadhi-sausage.pdf)

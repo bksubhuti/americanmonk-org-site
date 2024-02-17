@@ -13,8 +13,8 @@ tags:
   - plastic-bottle
 authors: 
   - bksubhuti
-image: /images/images/insertion.png
-featured_image: /images/images/insertion.png
+image: /images/insertion.png
+featured_image: /images/insertion.png
 ---
 
 Here is a sample video and written instructions for making a self-contained incense holder made from a plastic bottle.  It is the coolest incense holder I have ever used. The idea is not mine. An American lay person had one at his dorm room and I thought it was the coolest thing since sliced bread. I made mine in minutes.

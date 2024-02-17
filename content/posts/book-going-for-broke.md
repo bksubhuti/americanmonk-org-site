@@ -10,8 +10,8 @@ tags:
   - watch-story
 authors: 
   - bksubhuti
-image: /images/images/Going-for-broke-cover.jpg
-featured_image: /images/images/Going-for-broke-cover.jpg
+image: /images/Going-for-broke-cover.jpg
+featured_image: /images/Going-for-broke-cover.jpg
 ---
 
 [![](/images/Going-for-broke-cover-198x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/Going-for-broke-cover.jpg)

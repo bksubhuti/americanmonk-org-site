@@ -9,8 +9,8 @@ tags:
   - itbmu
 authors: 
   - bksubhuti
-image: /images/images/IMG_20160703_121038.jpg
-featured_image: /images/images/IMG_20160703_121038.jpg
+image: /images/IMG_20160703_121038.jpg
+featured_image: /images/IMG_20160703_121038.jpg
 ---
 
 [![IMG_20160703_121038](/images/IMG_20160703_121038.jpg)](/images/2016/07/IMG_20160703_121038.jpg)

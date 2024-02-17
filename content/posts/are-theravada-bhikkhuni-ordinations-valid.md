@@ -13,8 +13,8 @@ tags:
   - upasampada
 authors: 
   - bksubhuti
-image: /images/images/magnifying_glass_globe.jpg
-featured_image: /images/images/magnifying_glass_globe.jpg
+image: /images/magnifying_glass_globe.jpg
+featured_image: /images/magnifying_glass_globe.jpg
 ---
 
 ![](/images/magnifying_glass_globe-1024x683.jpg)

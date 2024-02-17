@@ -12,8 +12,8 @@ tags:
   - yagu
 authors: 
   - bksubhuti
-image: /images/images/Chinese_rice_congee.jpg
-featured_image: /images/images/Chinese_rice_congee.jpg
+image: /images/Chinese_rice_congee.jpg
+featured_image: /images/Chinese_rice_congee.jpg
 ---
 
 ![](/images/Chinese_rice_congee.jpg)

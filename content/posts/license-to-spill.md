@@ -14,8 +14,8 @@ tags:
   - water-festival
 authors: 
   - bksubhuti
-image: /images/images/ayerarwady.comthingyan.jpg
-featured_image: /images/images/ayerarwady.comthingyan.jpg
+image: /images/ayerarwady.comthingyan.jpg
+featured_image: /images/ayerarwady.comthingyan.jpg
 ---
 
 [![License to Spill](/images/ayeyarwadythingyan3.jpg)](/images/2016/04/ayeyarwadythingyan3.jpg)In the eight plus years that I have lived in Myanmar, I have never seen the Thingyan Water Festival festivities happening in the street. I normally spend my time in the monastery and normally, if I went on alms, it would be early in the morning. However, our Kyownpine monastery goes out on alms round a little later so we can collect real food to actually eat a little bit easier (so the donors have time to cook). Because of this, I was able to see the “License to Spill” in action for first time.

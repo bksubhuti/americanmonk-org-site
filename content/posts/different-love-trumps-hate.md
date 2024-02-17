@@ -13,8 +13,8 @@ tags:
   - myanmar
 authors: 
   - bksubhuti
-image: /images/images/pexels-photo-13918.jpeg
-featured_image: /images/images/pexels-photo-13918.jpeg
+image: /images/pexels-photo-13918.jpeg
+featured_image: /images/pexels-photo-13918.jpeg
 ---
 
 [![pexels-photo-13918](/images/pexels-photo-13918.jpeg)](/images/2016/07/pexels-photo-13918.jpeg)

@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: /images/images/kilaueafarmsdeva.jpg
-featured_image: /images/images/kilaueafarmsdeva.jpg
+image: /images/kilaueafarmsdeva.jpg
+featured_image: /images/kilaueafarmsdeva.jpg
 ---
 
 [![kilaueafarmsSubhuti](/images/kilaueafarmsSubhuti.jpg)](/images/2015/10/kilaueafarmsSubhuti.jpg)

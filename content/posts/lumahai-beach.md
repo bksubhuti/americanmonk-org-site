@@ -3,8 +3,8 @@ title: "Lumaha'i Beach"
 date: 2015-08-12
 authors: 
   - bksubhuti
-image: /images/images/IMG_6591.jpg
-featured_image: /images/images/IMG_6591.jpg
+image: /images/IMG_6591.jpg
+featured_image: /images/IMG_6591.jpg
 ---
 
 [![Lumahai Beach](/images/IMG_6591.jpg)](/images/2015/08/IMG_6591.jpg) Our third beach trip with chanting and meditation during sunset. Lumaha'i Beach. We walked to the center of the beach and then sat down on top of a sand ledge to do our chanting. Afterwards, we did our meditation until a small rain cloud started to sprinkle down upon us. We had a good Dhamma discussion with our driver who is eager to learn about Buddhism and meditation and often asks us when the next trip will happen. Such trips are a blessing for the both of us!

@@ -13,8 +13,8 @@ tags:
   - monks
 authors: 
   - bksubhuti
-image: /images/images/1280px-Cadaver_dissection_table_-_long_shot.jpg
-featured_image: /images/images/1280px-Cadaver_dissection_table_-_long_shot.jpg
+image: /images/1280px-Cadaver_dissection_table_-_long_shot.jpg
+featured_image: /images/1280px-Cadaver_dissection_table_-_long_shot.jpg
 ---
 
 ![](/images/1280px-Cadaver_dissection_table_-_long_shot-1024x710.jpg)

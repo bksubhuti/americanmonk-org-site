@@ -8,8 +8,8 @@ tags:
   - pa-auk-meditation-center
 authors: 
   - bksubhuti
-image: /images/images/Slippersmany.jpg
-featured_image: /images/images/Slippersmany.jpg
+image: /images/Slippersmany.jpg
+featured_image: /images/Slippersmany.jpg
 ---
 
 500+ monks at paauk main. Some slippers go missing so people mark them with different patterns as a passive way to prevent loss.  However, the slippers in the center were not as passive. (Reposted and fixed lost picture from 2013)

@@ -8,8 +8,8 @@ tags:
   - teaching
 authors: 
   - bksubhuti
-image: /images/images/wheel-1.jpg
-featured_image: /images/images/wheel-1.jpg
+image: /images/wheel-1.jpg
+featured_image: /images/wheel-1.jpg
 ---
 
 [![](/images/wheel-1.jpg)](/images/2017/11/wheel-1.jpg)

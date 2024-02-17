@@ -11,8 +11,8 @@ tags:
   - thailand
 authors: 
   - bksubhuti
-image: /images/images/wp-1686396381691.jpg
-featured_image: /images/images/wp-1686396381691.jpg
+image: /images/wp-1686396381691.jpg
+featured_image: /images/wp-1686396381691.jpg
 ---
 
 I spent a little over 30 days in Thailand and I learned a great deal about Thai Buddhist culture and how things things are for monks outside of the vinaya saṅgha.  What did I learn?

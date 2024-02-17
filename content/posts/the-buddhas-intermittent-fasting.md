@@ -11,8 +11,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/bowl-meridian.png
-featured_image: /images/images/bowl-meridian.png
+image: /images/bowl-meridian.png
+featured_image: /images/bowl-meridian.png
 ---
 
 Did the Buddha do intermittent fasting? The answer is: Yes.

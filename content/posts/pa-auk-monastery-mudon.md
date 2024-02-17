@@ -11,8 +11,8 @@ tags:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/images/2016032113164100.jpg
-featured_image: /images/images/2016032113164100.jpg
+image: /images/2016032113164100.jpg
+featured_image: /images/2016032113164100.jpg
 ---
 
 Kyownpine Pa-Auk Branch Monastery in Mudon, Myanmar. I have moved to Yorgo Sayadaw 's new monastery called Kyownpine. The Yorgo Sayadaw read my first ordination transaction 15 years ago and invited me to come. He speaks no English, but we have fun together. Such a lovely place, lots of Metta here. Good views, cool at night (75 degrees), nice kuti. [![2016032113164100](/images/2016032113164100.jpg)](/images/2016/03/2016032113164100.jpg)

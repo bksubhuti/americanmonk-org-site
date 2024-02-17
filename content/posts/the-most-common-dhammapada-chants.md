@@ -10,8 +10,8 @@ tags:
   - popular-verses
 authors: 
   - bksubhuti
-image: /images/images/Tipitaka_scripture.jpg
-featured_image: /images/images/Tipitaka_scripture.jpg
+image: /images/Tipitaka_scripture.jpg
+featured_image: /images/Tipitaka_scripture.jpg
 ---
 
 ![](/images/Tipitaka_scripture-1024x746.jpg)

@@ -10,8 +10,8 @@ tags:
   - spray-gun
 authors: 
   - bksubhuti
-image: /images/images/spraygun.jpg
-featured_image: /images/images/spraygun.jpg
+image: /images/spraygun.jpg
+featured_image: /images/spraygun.jpg
 ---
 
 ![](/images/spraygun.jpg)

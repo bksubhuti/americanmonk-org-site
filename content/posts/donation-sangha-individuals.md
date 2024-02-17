@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/bowl-sink.jpg
-featured_image: /images/images/bowl-sink.jpg
+image: /images/bowl-sink.jpg
+featured_image: /images/bowl-sink.jpg
 ---
 
 [![](/images/bowl-sink.jpg)](/images/2017/09/bowl-sink.jpg)

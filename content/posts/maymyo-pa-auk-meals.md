@@ -10,8 +10,8 @@ tags:
   - pyin-oo-lwin
 authors: 
   - bksubhuti
-image: /images/images/Maymyofoodemotyfoodline.jpg
-featured_image: /images/images/Maymyofoodemotyfoodline.jpg
+image: /images/Maymyofoodemotyfoodline.jpg
+featured_image: /images/Maymyofoodemotyfoodline.jpg
 ---
 
 At Theravada monasteries there is no eating allowed after Noontime. Some monasteries only give one meal per day, while other monasteries give 2 meals per day. Both meal plans are allowed by the Buddha. However, some monasteries have no meals brought to the monks and they need to go out in the village and collect it. This last case is very rare and usually done by the forest monks living in secluded places or ehem.. Kaua'i. At Pa-Auk, we get breakfast, lunch and an afternoon filtered fresh fruit drink, usually avocado juice. Life here is easier compared to the life in Kaua'i where collecting my meals and eating could take four or five hours and rarely would I get a hot meal to eat. Nevertheless, I have found that the difficulty of collecting food to be very rewarding. Because the food is brought to us, we have more time to focus on meditation.

@@ -3,8 +3,8 @@ title: "How Do Monks Live Without Money?"
 date: 2022-07-29
 authors: 
   - bksubhuti
-image: /images/images/madmagazine-small.png
-featured_image: /images/images/madmagazine-small.png
+image: /images/madmagazine-small.png
+featured_image: /images/madmagazine-small.png
 ---
 
 ## Introduction

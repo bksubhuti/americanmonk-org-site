@@ -14,8 +14,8 @@ tags:
   - upasako
 authors: 
   - bksubhuti
-image: /images/images/Pannyasekara-sit-1-scaled.jpg
-featured_image: /images/images/Pannyasekara-sit-1-scaled.jpg
+image: /images/Pannyasekara-sit-1-scaled.jpg
+featured_image: /images/Pannyasekara-sit-1-scaled.jpg
 ---
 
 A lay person named Chathuranga came to the [International Institute of Theravāda](https://americanmonk.org/international-institute-of-theravada/) looking to ordain in November, 2022. He is now a sāmaṇera (novice monk) and not yet a fully ordained bhikkhu. I thought that it would be interesting to show his path to monkhood to you.

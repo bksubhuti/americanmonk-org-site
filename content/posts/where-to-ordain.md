@@ -3,8 +3,8 @@ title: "Where to Ordain?"
 date: 2020-09-04
 authors: 
   - bksubhuti
-image: /images/images/pabbajja.resized.jpg
-featured_image: /images/images/pabbajja.resized.jpg
+image: /images/pabbajja.resized.jpg
+featured_image: /images/pabbajja.resized.jpg
 ---
 
 ![](/images/pabbajja.resized.jpg)

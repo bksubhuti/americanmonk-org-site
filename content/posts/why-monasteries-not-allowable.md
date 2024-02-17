@@ -13,8 +13,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/WesternElectric302.jpg
-featured_image: /images/images/WesternElectric302.jpg
+image: /images/WesternElectric302.jpg
+featured_image: /images/WesternElectric302.jpg
 ---
 
 [![](/images/WesternElectric302.jpg)](/images/2017/03/WesternElectric302.jpg)

@@ -3,8 +3,8 @@ title: "A Walk In The Gardens"
 date: 2018-06-25
 authors: 
   - bksubhuti
-image: /images/images/IMG_20180606_190345.jpg
-featured_image: /images/images/IMG_20180606_190345.jpg
+image: /images/IMG_20180606_190345.jpg
+featured_image: /images/IMG_20180606_190345.jpg
 ---
 
 https://vimeo.com/276673429

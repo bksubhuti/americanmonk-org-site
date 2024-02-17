@@ -10,8 +10,8 @@ tags:
   - video
 authors: 
   - bksubhuti
-image: /images/images/usubhuti-urevata-interview.jpg
-featured_image: /images/images/usubhuti-urevata-interview.jpg
+image: /images/usubhuti-urevata-interview.jpg
+featured_image: /images/usubhuti-urevata-interview.jpg
 ---
 
 ![](/images/usubhuti-urevata-interview.jpg)

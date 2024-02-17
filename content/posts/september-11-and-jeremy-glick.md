@@ -14,8 +14,8 @@ tags:
   - september-11
 authors: 
   - bksubhuti
-image: /images/images/Jeremy-Glick.jpg
-featured_image: /images/images/Jeremy-Glick.jpg
+image: /images/Jeremy-Glick.jpg
+featured_image: /images/Jeremy-Glick.jpg
 ---
 
 [![Jeremy Glick (picture)](/images/Jeremy-Glick.jpg)](/images/2018/07/Jeremy-Glick.jpg)September 11th and Jeremy Glick

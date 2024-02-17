@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/razorapart.jpg.jpg
-featured_image: /images/images/razorapart.jpg.jpg
+image: /images/razorapart.jpg.jpg
+featured_image: /images/razorapart.jpg.jpg
 ---
 
 When it comes to shaving heads, Theravāda Buddhist Monks might be the authority on this issue. It is second nature for monks to shave but perhaps unknown to the rest of the world. In this article, we will discuss the motivation, Buddhist culture and methods for shaving the head and how it is done.

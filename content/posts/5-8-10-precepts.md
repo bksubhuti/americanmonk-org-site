@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/Precepts.png
-featured_image: /images/images/Precepts.png
+image: /images/Precepts.png
+featured_image: /images/Precepts.png
 ---
 
 Here is a comparison of 5, 8 and 10 precepts.  The Buddhist who follows five precepts is known as a regular lay Buddhist.  The person who follows 8 precepts is known as a serious Buddhist yogi.   The person who follows the 10 precepts is known as a novice monk.  A bhikkhu follows 227 rules.

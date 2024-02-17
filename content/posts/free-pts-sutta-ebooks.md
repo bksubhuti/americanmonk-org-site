@@ -12,8 +12,8 @@ tags:
   - samyutta-nikaya
 authors: 
   - bksubhuti
-image: /images/images/PTS-eBooks.png
-featured_image: /images/images/PTS-eBooks.png
+image: /images/PTS-eBooks.png
+featured_image: /images/PTS-eBooks.png
 ---
 
 ![](/images/DN-cover.png)

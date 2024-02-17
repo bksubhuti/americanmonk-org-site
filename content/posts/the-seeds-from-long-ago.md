@@ -11,8 +11,8 @@ tags:
   - story
 authors: 
   - bksubhuti
-image: /images/images/seedslongago.jpg
-featured_image: /images/images/seedslongago.jpg
+image: /images/seedslongago.jpg
+featured_image: /images/seedslongago.jpg
 ---
 
 # **The Seeds From Long Ago**

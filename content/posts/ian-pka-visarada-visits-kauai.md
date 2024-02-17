@@ -15,8 +15,8 @@ tags:
   - waterfalls
 authors: 
   - bksubhuti
-image: /images/images/bahnteleiman.jpg
-featured_image: /images/images/bahnteleiman.jpg
+image: /images/bahnteleiman.jpg
+featured_image: /images/bahnteleiman.jpg
 ---
 
 ![](/images/bahnteleiman-1024x768.jpg)

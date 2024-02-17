@@ -9,8 +9,8 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: /images/images/theravada.png
-featured_image: /images/images/theravada.png
+image: /images/theravada.png
+featured_image: /images/theravada.png
 ---
 
 # [![](/images/theravada-300x151.png)](https://americanmonk.org/wp-content/uploads/2018/10/theravada.png)

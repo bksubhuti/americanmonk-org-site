@@ -7,8 +7,8 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/images/balanceTheRock.png
-featured_image: /images/images/balanceTheRock.png
+image: /images/balanceTheRock.png
+featured_image: /images/balanceTheRock.png
 ---
 
 I've been looking forward to the Myanmar Internet being cut off, but it does not seem to be happening. I guess that is good for the people here. I will be taking a SIM break for about 5 days...  

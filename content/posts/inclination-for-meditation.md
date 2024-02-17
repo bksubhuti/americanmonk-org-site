@@ -5,8 +5,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: /images/images/grassmeditationfeature.jpg
-featured_image: /images/images/grassmeditationfeature.jpg
+image: /images/grassmeditationfeature.jpg
+featured_image: /images/grassmeditationfeature.jpg
 ---
 
 [![grassmeditation~01](/images/grassmeditation01.jpg)](/images/2015/08/grassmeditation01.jpg)

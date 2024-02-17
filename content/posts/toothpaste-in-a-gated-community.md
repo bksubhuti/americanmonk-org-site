@@ -11,8 +11,8 @@ tags:
   - toothpaste
 authors: 
   - bksubhuti
-image: /images/images/toothpaste.jpg
-featured_image: /images/images/toothpaste.jpg
+image: /images/toothpaste.jpg
+featured_image: /images/toothpaste.jpg
 ---
 
 ![](/images/toothpaste.jpg)

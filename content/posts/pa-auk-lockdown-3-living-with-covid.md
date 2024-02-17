@@ -13,8 +13,8 @@ tags:
   - testing
 authors: 
   - bksubhuti
-image: /images/images/lockdown-lwc.resized.png
-featured_image: /images/images/lockdown-lwc.resized.png
+image: /images/lockdown-lwc.resized.png
+featured_image: /images/lockdown-lwc.resized.png
 ---
 
 ![](/images/lockdown-lwc.resized-2.png)

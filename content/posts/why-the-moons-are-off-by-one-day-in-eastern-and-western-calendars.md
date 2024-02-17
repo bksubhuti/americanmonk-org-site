@@ -6,8 +6,8 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: /images/images/timeanddatecom.png
-featured_image: /images/images/timeanddatecom.png
+image: /images/timeanddatecom.png
+featured_image: /images/timeanddatecom.png
 ---
 
 The website [Http://TimeAndDate.com](http://www.timeanddate.com/moon/phases/usa/lihue) is a "must-know" and "must-have" for Buddhist monks, especially when they travel abroad.  It calculates the Moon Phases and Solar Noon for a specific area.  One thing that was very enlightening was how the Western calendars were off from the Buddhist calendars for the new and full moons.

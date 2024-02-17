@@ -6,8 +6,8 @@ tags:
   - top-ten
 authors: 
   - bksubhuti
-image: /images/images/cpanelstats2020.png
-featured_image: /images/images/cpanelstats2020.png
+image: /images/cpanelstats2020.png
+featured_image: /images/cpanelstats2020.png
 ---
 
 This past year has been very fruitful for AmericanMonk.org. In this post, we will discuss the 2020 page view stats. Originally, the name of the website was subhuti.withmetta.net but can you remember that website url? Trying to think of an easy meaningful and descriptive name for Westerners to remember was not easy, but AmericanMonk.org was available and I took it.

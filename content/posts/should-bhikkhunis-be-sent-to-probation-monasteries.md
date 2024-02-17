@@ -20,8 +20,8 @@ tags:
   - western
 authors: 
   - silananda
-image: /images/images/edenburgh-prison.jpg
-featured_image: /images/images/edenburgh-prison.jpg
+image: /images/edenburgh-prison.jpg
+featured_image: /images/edenburgh-prison.jpg
 ---
 
 ![](/images/edenburgh-prison.jpg)

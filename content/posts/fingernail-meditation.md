@@ -10,8 +10,8 @@ tags:
   - samatha
 authors: 
   - bksubhuti
-image: /images/images/Thumbnail-finger.jpg
-featured_image: /images/images/Thumbnail-finger.jpg
+image: /images/Thumbnail-finger.jpg
+featured_image: /images/Thumbnail-finger.jpg
 ---
 
 ![Thumbnail](/images/Thumbnail-finger.jpg)

@@ -3,8 +3,8 @@ title: "I went to Waimea canyon today"
 date: 2015-07-18
 authors: 
   - bksubhuti
-image: /images/images/blogcovercanyon.jpg
-featured_image: /images/images/blogcovercanyon.jpg
+image: /images/blogcovercanyon.jpg
+featured_image: /images/blogcovercanyon.jpg
 ---
 
 [![blogcovercanyon](/images/blogcovercanyon.jpg)](/images/2015/08/blogcovercanyon.jpg)

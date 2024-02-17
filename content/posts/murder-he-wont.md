@@ -9,8 +9,8 @@ tags:
   - murder
 authors: 
   - bksubhuti
-image: /images/images/HandMadeKnife.jpg
-featured_image: /images/images/HandMadeKnife.jpg
+image: /images/HandMadeKnife.jpg
+featured_image: /images/HandMadeKnife.jpg
 ---
 
 A friend of mine once told me his story about how he had a knife in his hand and was raging with anger. He was going to kill his wife and her new found lover. Below is a short retelling of the story in third person.

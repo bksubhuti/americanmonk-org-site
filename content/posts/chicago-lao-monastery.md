@@ -16,8 +16,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: /images/images/ajahnandmeelgin.jpg
-featured_image: /images/images/ajahnandmeelgin.jpg
+image: /images/ajahnandmeelgin.jpg
+featured_image: /images/ajahnandmeelgin.jpg
 ---
 
 ![](/images/laotempleelgin.png)

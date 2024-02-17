@@ -12,8 +12,8 @@ tags:
   - samanera
 authors: 
   - bksubhuti
-image: //images/sabbesatta2.jpg
-featured_image: //images/sabbesatta2.jpg
+image: /images/images/sabbesatta2.jpg
+featured_image: /images/images/sabbesatta2.jpg
 ---
 
 reposted from [https://withmetta.net](https://withmetta.net) (2016) . When a Buddhist monk says _“sabbe satta,”_ that is a shorthand for _metta_ practice. “_Sabbe satta_” means “all beings.”

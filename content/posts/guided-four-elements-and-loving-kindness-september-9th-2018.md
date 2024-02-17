@@ -11,8 +11,8 @@ tags:
   - loving-kindness
 authors: 
   - bksubhuti
-image: //images/me-guided-fourelements.jpg
-featured_image: //images/me-guided-fourelements.jpg
+image: /images/images/me-guided-fourelements.jpg
+featured_image: /images/images/me-guided-fourelements.jpg
 ---
 
 [![](/images/me-guided-fourelements-725x1024.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/me-guided-fourelements.jpg)

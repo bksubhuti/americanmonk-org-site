@@ -13,8 +13,8 @@ tags:
   - theravada-2
 authors: 
   - bksubhuti
-image: //images/angkorwatgroup.jpeg
-featured_image: //images/angkorwatgroup.jpeg
+image: /images/images/angkorwatgroup.jpeg
+featured_image: /images/images/angkorwatgroup.jpeg
 ---
 
 ![](/images/angkorwatcover.jpg)

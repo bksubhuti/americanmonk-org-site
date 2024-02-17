@@ -9,11 +9,11 @@ tags:
   - wedding
 authors: 
   - bksubhuti
-image: //images/birdseatingrice.jpg
-featured_image: //images/birdseatingrice.jpg
+image: /images/images/birdseatingrice.jpg
+featured_image: /images/images/birdseatingrice.jpg
 ---
 
-[![birdseatingrice](assets/images/birdseatingrice.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/12/birdseatingrice.jpg)
+[![birdseatingrice](/images/birdseatingrice.jpg)](/images/2016/12/birdseatingrice.jpg)
 
 Is it OK to feed uncooked rice to the birds?
 

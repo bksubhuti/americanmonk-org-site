@@ -3,8 +3,8 @@ title: "Interview 2"
 date: 2019-04-01
 authors: 
   - bksubhuti
-image: //images/interview2.png
-featured_image: //images/interview2.png
+image: /images/images/interview2.png
+featured_image: /images/images/interview2.png
 ---
 
 My friend scheduled another interview with me and recently published it.

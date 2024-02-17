@@ -10,8 +10,8 @@ tags:
   - new-passport
 authors: 
   - bksubhuti
-image: //images/bhantepassport-no-num.jpg
-featured_image: //images/bhantepassport-no-num.jpg
+image: /images/images/bhantepassport-no-num.jpg
+featured_image: /images/images/bhantepassport-no-num.jpg
 ---
 
 ![](/images/bhantepassport-no-num-758x1024.jpg)

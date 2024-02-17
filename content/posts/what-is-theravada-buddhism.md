@@ -9,8 +9,8 @@ tags:
   - theravada
 authors: 
   - bksubhuti
-image: //images/bodhi-tree-monk-reduce-scaled.jpg
-featured_image: //images/bodhi-tree-monk-reduce-scaled.jpg
+image: /images/images/bodhi-tree-monk-reduce-scaled.jpg
+featured_image: /images/images/bodhi-tree-monk-reduce-scaled.jpg
 ---
 
 ![](/images/bodhi-tree-monk-reduce-1024x576.jpg)

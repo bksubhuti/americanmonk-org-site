@@ -2,7 +2,7 @@ import 'dart:io';
 
 void main(List<String> arguments) {
   if (arguments.isEmpty) {
-    print('Usage: dart add_featured_image.dart <directory>');
+    print('Usage: dart script.dart <directory>');
     exit(1);
   }
 
@@ -14,51 +14,54 @@ void main(List<String> arguments) {
     exit(1);
   }
 
-  directory
-      .listSync(recursive: true)
-      .whereType<File>()
-      .where((file) => file.path.endsWith('.md'))
-      .forEach((file) {
-    final lines = file.readAsLinesSync();
-    final result = processFile(lines);
-
-    if (result != null) {
-      file.writeAsStringSync(result['content']);
-      print('${file.path} updated: ${result['message']}');
-    }
-  });
+  processDirectory(directory);
 }
 
-Map<String, dynamic>? processFile(List<String> lines) {
+void processDirectory(Directory directory) {
+  List<FileSystemEntity> entities = directory.listSync(recursive: true);
+  for (var entity in entities) {
+    if (entity is File && entity.path.endsWith('.md')) {
+      processMarkdownFile(entity);
+    }
+  }
+}
+
+void processMarkdownFile(File file) {
+  List<String> lines = file.readAsLinesSync();
   bool modified = false;
-  String message = '';
   List<String> newLines = [];
+  String? imagePath;
 
   for (var line in lines) {
-    // Correctly handle image and featured_image in the header
     if (line.startsWith('image:')) {
-      String newPath = line.replaceFirst('assets/', '/');
-      newLines.add(newPath);
-      newLines.add('featured_image: ' + newPath.split('image: ').last);
+      imagePath =
+          line.substring('image:'.length).trim().replaceAll('assets/', '');
+      line = 'image: /images$imagePath';
       modified = true;
-      message += 'Header image updated; ';
-    } else {
-      // Correctly update image paths in the content
-      if (line.contains('![](assets/')) {
-        line = line.replaceFirst('assets/', '/');
-        modified = true;
-      }
-      newLines.add(line);
+    } else if (line.contains('![')) {
+      // Correct inline image paths and retain image after removing the domain
+      line = line.replaceAllMapped(RegExp(r'\(assets/images/(.*?)\)'),
+          (Match match) => '(/images/${match[1]})');
+      line = line.replaceAllMapped(
+          RegExp(r'\(https://subhuti.withmetta.net/wp-content/uploads/(.*?)\)'),
+          (Match match) => '(/images/${match[1]})');
+      modified = true;
+    }
+    newLines.add(line);
+  }
+
+  // Insert featured_image line in the front matter if an image line was modified and featured_image is not already present
+  if (imagePath != null &&
+      !newLines.any((line) => line.startsWith('featured_image:'))) {
+    int frontMatterEndIndex = newLines.indexOf('---', 1);
+    if (frontMatterEndIndex != -1) {
+      newLines.insert(frontMatterEndIndex, 'featured_image: /images$imagePath');
+      modified = true;
     }
   }
 
-  // If modifications were made, return the updated content and a message
   if (modified) {
-    return {
-      'content': newLines.join('\n'),
-      'message': message.isNotEmpty ? message : 'Content images updated.'
-    };
+    file.writeAsStringSync(newLines.join('\n'));
+    print('${file.path} updated.');
   }
-
-  return null;
 }

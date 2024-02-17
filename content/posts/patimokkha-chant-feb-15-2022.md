@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/patimokkha-pic-rotated.jpg
-featured_image: //images/patimokkha-pic-rotated.jpg
+image: /images/images/patimokkha-pic-rotated.jpg
+featured_image: /images/images/patimokkha-pic-rotated.jpg
 ---
 
 ![](/images/patimokkha-pic-crop.jpg)

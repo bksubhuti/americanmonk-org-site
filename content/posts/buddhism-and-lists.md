@@ -12,8 +12,8 @@ tags:
   - wheel
 authors: 
   - bksubhuti
-image: //images/buddha-number2.png
-featured_image: //images/buddha-number2.png
+image: /images/images/buddha-number2.png
+featured_image: /images/images/buddha-number2.png
 ---
 
 ![](/images/buddha-number2-724x1024.png)

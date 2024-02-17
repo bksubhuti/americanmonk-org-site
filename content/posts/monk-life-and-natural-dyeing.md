@@ -12,8 +12,8 @@ tags:
   - tree-bark
 authors: 
   - bksubhuti
-image: //images/rolling1.jpg
-featured_image: //images/rolling1.jpg
+image: /images/images/rolling1.jpg
+featured_image: /images/images/rolling1.jpg
 ---
 
 ![](/images/cookingdye-monk-rotated.jpg)

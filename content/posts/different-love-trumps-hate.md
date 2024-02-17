@@ -13,13 +13,13 @@ tags:
   - myanmar
 authors: 
   - bksubhuti
-image: //images/pexels-photo-13918.jpeg
-featured_image: //images/pexels-photo-13918.jpeg
+image: /images/images/pexels-photo-13918.jpeg
+featured_image: /images/images/pexels-photo-13918.jpeg
 ---
 
-[![pexels-photo-13918](assets/images/pexels-photo-13918.jpeg)](https://subhuti.withmetta.net/wp-content/uploads/2016/07/pexels-photo-13918.jpeg)
+[![pexels-photo-13918](/images/pexels-photo-13918.jpeg)](/images/2016/07/pexels-photo-13918.jpeg)
 
-[![hatredlove](assets/images/hatredlove.png)](https://subhuti.withmetta.net/wp-content/uploads/2016/07/hatredlove.png)
+[![hatredlove](/images/hatredlove.png)](/images/2016/07/hatredlove.png)
 
 This video clip below came my way and I would hate to say that not only is this guy is correct right near the end of his talk, but he is expressing the same thoughts as the Buddha and myself...well, at least the last part. This link will skip over to 3 minutes 38 seconds. Remainder running time is about 2 minutes.  **NOTE**: There is more I say below after this video: https://www.youtube.com/watch?v=CceQISThDYQ#t=3m38s
 

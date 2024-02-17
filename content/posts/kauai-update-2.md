@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: //images/noks-farm-rainbow.jpg
-featured_image: //images/noks-farm-rainbow.jpg
+image: /images/images/noks-farm-rainbow.jpg
+featured_image: /images/images/noks-farm-rainbow.jpg
 ---
 
 I am still happy to report that things are continuing to go well. However, we did have a small hiccup, OK, a big one. We moved.
@@ -41,4 +41,4 @@ Bhikkhu Subhuti
 
 Picture: Another rainbow over the new place.
 
-[![noks farm rainbow](assets/images/noks-farm-rainbow.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/09/noks-farm-rainbow.jpg)
+[![noks farm rainbow](/images/noks-farm-rainbow.jpg)](/images/2015/09/noks-farm-rainbow.jpg)

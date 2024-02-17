@@ -11,8 +11,8 @@ tags:
   - saṅgha-donation
 authors: 
   - bksubhuti
-image: //images/Looking-at-bowl.jpg
-featured_image: //images/Looking-at-bowl.jpg
+image: /images/images/Looking-at-bowl.jpg
+featured_image: /images/images/Looking-at-bowl.jpg
 ---
 
 ![](/images/Looking-at-bowl-1024x576.jpg)

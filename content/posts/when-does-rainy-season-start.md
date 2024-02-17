@@ -16,8 +16,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/rainyseason-backhall.jpg
-featured_image: //images/rainyseason-backhall.jpg
+image: /images/images/rainyseason-backhall.jpg
+featured_image: /images/images/rainyseason-backhall.jpg
 ---
 
 - Recently, I got a nice message from a monk friend telling me he was taking vassa (3 month Rainy Season Retreat) on July 23rd (the Full Moon Day) and wishing me a happy vassa before he goes offline for three months. However, we at Pa-Auk are taking the vassa today on July 24 (the day after the Full Moon Day). The calendars often say it starts on the Full Moon Day, but we don't do that at Pa-Auk. So who is correct?

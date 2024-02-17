@@ -15,8 +15,8 @@ tags:
   - sri-lanka
 authors: 
   - bksubhuti
-image: //images/extra-before-meal1.jpg
-featured_image: //images/extra-before-meal1.jpg
+image: /images/images/extra-before-meal1.jpg
+featured_image: /images/images/extra-before-meal1.jpg
 ---
 
 ![](/images/alms-tray-and-bowl1-1024x576.jpg)

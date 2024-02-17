@@ -12,8 +12,8 @@ tags:
   - tibetan
 authors: 
   - bksubhuti
-image: //images/784056331667827.jpg
-featured_image: //images/784056331667827.jpg
+image: /images/images/784056331667827.jpg
+featured_image: /images/images/784056331667827.jpg
 ---
 
 It occured to me that people don't know one type of Buddhist monk from the other and a post was needed to explain this.

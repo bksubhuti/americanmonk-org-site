@@ -11,8 +11,8 @@ tags:
   - pa-auk-sayadaw
 authors: 
   - bksubhuti
-image: //images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
-featured_image: //images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
+image: /images/images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
+featured_image: /images/images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance.jpg
 ---
 
 ![](/images/1475px-Pa-Auk_Forest_Meditation_Center_Main_Entrance-1024x750.jpg)

@@ -12,8 +12,8 @@ tags:
   - vaccine
 authors: 
   - bksubhuti
-image: //images/getjab.jpg
-featured_image: //images/getjab.jpg
+image: /images/images/getjab.jpg
+featured_image: /images/images/getjab.jpg
 ---
 
 ![](/images/getjab.jpg)

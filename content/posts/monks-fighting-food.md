@@ -11,13 +11,13 @@ tags:
   - mudon
 authors: 
   - bksubhuti
-image: //images/durianfight.jpg
-featured_image: //images/durianfight.jpg
+image: /images/images/durianfight.jpg
+featured_image: /images/images/durianfight.jpg
 ---
 
  
 
-[![durianfight](assets/images/durianfight.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/durianfight.jpg)
+[![durianfight](/images/durianfight.jpg)](/images/2016/05/durianfight.jpg)
 
 I cannot believe that I am writing an article that explains how the monks are fighting over food. It is very awkward to hear isn’t it? On the other hand human nature is human nature. We have six monks who sit at each table and sometimes there is not enough of the special items to go around. And that is when the fighting begins...
 

@@ -11,11 +11,11 @@ tags:
   - rohingya
 authors: 
   - bksubhuti
-image: //images/We_want_white_tenants.jpg
-featured_image: //images/We_want_white_tenants.jpg
+image: /images/images/We_want_white_tenants.jpg
+featured_image: /images/images/We_want_white_tenants.jpg
 ---
 
-[![](/images/We_want_white_tenants.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2017/09/We_want_white_tenants.jpg)
+[![](/images/We_want_white_tenants.jpg)](/images/2017/09/We_want_white_tenants.jpg)
 
 # Racism in Asia, Myanmar and Monasteries
 

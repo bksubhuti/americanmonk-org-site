@@ -3,8 +3,8 @@ title: "A Walk In The Gardens"
 date: 2018-06-25
 authors: 
   - bksubhuti
-image: //images/IMG_20180606_190345.jpg
-featured_image: //images/IMG_20180606_190345.jpg
+image: /images/images/IMG_20180606_190345.jpg
+featured_image: /images/images/IMG_20180606_190345.jpg
 ---
 
 https://vimeo.com/276673429
@@ -33,10 +33,10 @@ Currently, I am still at the Garden.  it is a beautiful and some pictures are b
 
  
 
-[![](/images/IMG_20180606_190345-1024x576.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/06/IMG_20180606_190345.jpg)
+[![](/images/IMG_20180606_190345-1024x576.jpg)](/images/2018/06/IMG_20180606_190345.jpg)
 
-\[caption id="attachment\_1318" align="alignnone" width="708"\][![](/images/IMG_20180531_163228-768x1024.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/06/IMG_20180531_163228.jpg) Garden Meditation Place\[/caption\]
+\[caption id="attachment\_1318" align="alignnone" width="708"\][![](/images/IMG_20180531_163228-768x1024.jpg)](/images/2018/06/IMG_20180531_163228.jpg) Garden Meditation Place\[/caption\]
 
-\[caption id="attachment\_1316" align="alignnone" width="708"\][![](/images/IMG_20180606_190629-1024x768.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/06/IMG_20180606_190629.jpg) Garden View\[/caption\]
+\[caption id="attachment\_1316" align="alignnone" width="708"\][![](/images/IMG_20180606_190629-1024x768.jpg)](/images/2018/06/IMG_20180606_190629.jpg) Garden View\[/caption\]
 
-\[caption id="attachment\_1319" align="alignnone" width="708"\][![](/images/IMG_20180605_075327-1024x768.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/06/IMG_20180605_075327.jpg) Rainbow\[/caption\]
+\[caption id="attachment\_1319" align="alignnone" width="708"\][![](/images/IMG_20180605_075327-1024x768.jpg)](/images/2018/06/IMG_20180605_075327.jpg) Rainbow\[/caption\]

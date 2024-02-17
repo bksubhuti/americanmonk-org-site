@@ -11,8 +11,8 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: //images/alms-map-kilauea.jpg
-featured_image: //images/alms-map-kilauea.jpg
+image: /images/images/alms-map-kilauea.jpg
+featured_image: /images/images/alms-map-kilauea.jpg
 ---
 
  
@@ -27,7 +27,7 @@ Above is Tuesday's Gains.
 
  
 
-[![](/images/wednesdayGains-300x169.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/wednesdayGains.jpg) [![](assets/images/WednesdayGain2-300x169.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/WednesdayGain2.jpg) Above is Wednesday's Gains (two different angles)
+[![](/images/wednesdayGains-300x169.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/wednesdayGains.jpg) [![](/images/WednesdayGain2-300x169.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/WednesdayGain2.jpg) Above is Wednesday's Gains (two different angles)
 
 [![](/images/CupOChai-225x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/09/CupOChai.jpg) Above is Cup of Turmeric Chai from Wednesday's Gains\[mfn\]Photo is from last week.. this week I did not have my camera\[/mfn\]
 

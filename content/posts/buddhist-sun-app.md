@@ -12,13 +12,13 @@ tags:
   - zenith
 authors: 
   - bksubhuti
-image: //images/buddhist_sun_logo4.png
-featured_image: //images/buddhist_sun_logo4.png
+image: /images/images/buddhist_sun_logo4.png
+featured_image: /images/images/buddhist_sun_logo4.png
 ---
 
 ![](/images/buddhist_sun_logo4.png)
 
- [![Play Store](assets/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun) [ ![iOS App Store](assets/images/app-store.png) ](https://apps.apple.com/us/app/buddhist-sun/id1585091207) 
+ [![Play Store](/images/google-play-badge.png)](https://play.google.com/store/apps/details?id=com.bksubhuti.buddhistsun) [ ![iOS App Store](/images/app-store.png) ](https://apps.apple.com/us/app/buddhist-sun/id1585091207) 
 
 Recently I made a mobile app to help me know when the Solar Noon is approaching and past.
 

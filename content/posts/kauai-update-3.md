@@ -17,8 +17,8 @@ tags:
   - sukhothai-cafe
 authors: 
   - bksubhuti
-image: //images/IMG_1771-e1543113014102.jpg
-featured_image: //images/IMG_1771-e1543113014102.jpg
+image: /images/images/IMG_1771-e1543113014102.jpg
+featured_image: /images/images/IMG_1771-e1543113014102.jpg
 ---
 
 > [![](/images/IMG_1771-e1543113014102-225x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/11/IMG_1771-e1543113014102.jpg)

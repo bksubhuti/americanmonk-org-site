@@ -8,8 +8,8 @@ tags:
   - meditation
 authors: 
   - bksubhuti
-image: //images/7lockdownsuggestion.png
-featured_image: //images/7lockdownsuggestion.png
+image: /images/images/7lockdownsuggestion.png
+featured_image: /images/images/7lockdownsuggestion.png
 ---
 
 These days, the lockdowns are in full swing. The question is, "What do you do with your time?" Perhaps you are out of work, or retired like my parents. What do you do? As a monk, lockdowns or "stay at home" orders are not much of a big deal unless a medical problem arises.

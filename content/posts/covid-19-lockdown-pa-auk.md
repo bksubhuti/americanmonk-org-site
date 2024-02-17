@@ -14,8 +14,8 @@ tags:
   - virus
 authors: 
   - bksubhuti
-image: //images/Pindapatamask.jpg
-featured_image: //images/Pindapatamask.jpg
+image: /images/images/Pindapatamask.jpg
+featured_image: /images/images/Pindapatamask.jpg
 ---
 
 ![](/images/Pindapatamask-1024x768.jpg)

@@ -9,8 +9,8 @@ tags:
   - refrigerator
 authors: 
   - bksubhuti
-image: //images/Walk-In-Fridge_Pa-Auk.jpg
-featured_image: //images/Walk-In-Fridge_Pa-Auk.jpg
+image: /images/images/Walk-In-Fridge_Pa-Auk.jpg
+featured_image: /images/images/Walk-In-Fridge_Pa-Auk.jpg
 ---
 
 Recently, the doctor ordered some lemon juice for me to take as medicine, so I asked the office helper for some lemons. She went into the kitchen and then to the "walk-in refrigerator." I just had to laugh and then snapped a picture.

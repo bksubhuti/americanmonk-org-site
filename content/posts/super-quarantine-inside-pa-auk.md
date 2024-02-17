@@ -11,8 +11,8 @@ tags:
   - quarantine
 authors: 
   - bksubhuti
-image: //images/4m4view.jpg
-featured_image: //images/4m4view.jpg
+image: /images/images/4m4view.jpg
+featured_image: /images/images/4m4view.jpg
 ---
 
 Recently, I had a serious medical problem that had the potential to be extremely serious. Please don't ask. In any case, I arranged permission to go outside and then arranged for someone to help me get to a clinic in Mandalay which had the proper technology to properly assess my problem. This article is not about going out. Instead this article is about coming back and staying in quarantine.

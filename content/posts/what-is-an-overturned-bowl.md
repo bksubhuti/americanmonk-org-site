@@ -15,8 +15,8 @@ tags:
   - vinayakamma
 authors: 
   - bksubhuti
-image: //images/bowlrack.jpg
-featured_image: //images/bowlrack.jpg
+image: /images/images/bowlrack.jpg
+featured_image: /images/images/bowlrack.jpg
 ---
 
 ![](/images/bowlrack-1024x768.jpg)

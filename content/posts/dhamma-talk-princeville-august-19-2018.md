@@ -13,8 +13,8 @@ tags:
   - monk-in-kauai
 authors: 
   - bksubhuti
-image: //images/aug-19.png
-featured_image: //images/aug-19.png
+image: /images/images/aug-19.png
+featured_image: /images/images/aug-19.png
 ---
 
 - [![](/images/aug-19.png)](https://americanmonk.org/wp-content/uploads/2018/08/aug-19.png)

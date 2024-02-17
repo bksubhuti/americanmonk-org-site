@@ -11,8 +11,8 @@ tags:
   - monk
 authors: 
   - bksubhuti
-image: //images/20180516_094919-e1526506667615.jpg
-featured_image: //images/20180516_094919-e1526506667615.jpg
+image: /images/images/20180516_094919-e1526506667615.jpg
+featured_image: /images/images/20180516_094919-e1526506667615.jpg
 ---
 
 ![](/images/20180516_094919-e1526506667615-768x1024.jpg)

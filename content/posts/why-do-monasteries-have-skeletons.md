@@ -11,8 +11,8 @@ tags:
   - teaching
 authors: 
   - bksubhuti
-image: //images/MonkSkeleton.png
-featured_image: //images/MonkSkeleton.png
+image: /images/images/MonkSkeleton.png
+featured_image: /images/images/MonkSkeleton.png
 ---
 
 ![](/images/MonkSkeleton.png)

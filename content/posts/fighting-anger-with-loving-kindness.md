@@ -15,8 +15,8 @@ tags:
   - pindapata
 authors: 
   - bksubhuti
-image: //images/sword.png
-featured_image: //images/sword.png
+image: /images/images/sword.png
+featured_image: /images/images/sword.png
 ---
 
 [![](/images/sword-300x295.png)](https://americanmonk.org/wp-content/uploads/sword.png)

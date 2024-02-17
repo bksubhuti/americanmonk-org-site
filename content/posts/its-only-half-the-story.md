@@ -6,8 +6,8 @@ categories:
   - meditation
 authors: 
   - bksubhuti
-image: //images/fb-bless-kilauea.jpg
-featured_image: //images/fb-bless-kilauea.jpg
+image: /images/images/fb-bless-kilauea.jpg
+featured_image: /images/images/fb-bless-kilauea.jpg
 ---
 
 Yesterday, I had spoken about how someone took our pictures and who said something like, "I just wanted to tell you (her hand was now over her heart) how much ...what you do means to me. I really want to thank you for what you are doing!"
@@ -26,4 +26,4 @@ In the end, it is not so bad if they only get half of a story.
 
 With loving kindness, Bhikkhu Subhuti
 
-[![fb bless kilauea](assets/images/fb-bless-kilauea.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/11/fb-bless-kilauea.jpg)
+[![fb bless kilauea](/images/fb-bless-kilauea.jpg)](/images/2015/11/fb-bless-kilauea.jpg)

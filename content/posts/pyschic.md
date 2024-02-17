@@ -10,8 +10,8 @@ tags:
   - psychic
 authors: 
   - bksubhuti
-image: //images/crystalball.jpg
-featured_image: //images/crystalball.jpg
+image: /images/images/crystalball.jpg
+featured_image: /images/images/crystalball.jpg
 ---
 
 ![](/images/crystalball-1024x592.jpg)

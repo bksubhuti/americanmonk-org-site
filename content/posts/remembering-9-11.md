@@ -13,8 +13,8 @@ tags:
   - wtc
 authors: 
   - bksubhuti
-image: //images/WTC_south_tower_9-11.jpeg
-featured_image: //images/WTC_south_tower_9-11.jpeg
+image: /images/images/WTC_south_tower_9-11.jpeg
+featured_image: /images/images/WTC_south_tower_9-11.jpeg
 ---
 
 ![](/images/WTC_south_tower_9-11.jpeg)

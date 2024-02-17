@@ -12,8 +12,8 @@ tags:
   - qibla
 authors: 
   - bksubhuti
-image: //images/buddhist_compass-1.jpg
-featured_image: //images/buddhist_compass-1.jpg
+image: /images/images/buddhist_compass-1.jpg
+featured_image: /images/images/buddhist_compass-1.jpg
 ---
 
 ![](https://play-lh.googleusercontent.com/RLdLjTdLL7lUZijOYgJzXU0iw_8GGkUJx7khyOLQE1hsliPdG5tDVQv4VKKK6uc0-bR0)

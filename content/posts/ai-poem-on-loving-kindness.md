@@ -8,8 +8,8 @@ tags:
   - loving-kindness
 authors: 
   - bksubhuti
-image: //images/loving-kindness-ai-1.png
-featured_image: //images/loving-kindness-ai-1.png
+image: /images/images/loving-kindness-ai-1.png
+featured_image: /images/images/loving-kindness-ai-1.png
 ---
 
 ![](/images/loving-kindness-ai-1.png)

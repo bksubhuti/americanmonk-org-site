@@ -10,8 +10,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/BhanteWithBroom.jpg
-featured_image: //images/BhanteWithBroom.jpg
+image: /images/images/BhanteWithBroom.jpg
+featured_image: /images/images/BhanteWithBroom.jpg
 ---
 
 ![](/images/BhanteWithBroom.jpg)

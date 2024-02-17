@@ -11,8 +11,8 @@ tags:
   - requisite-slips
 authors: 
   - bksubhuti
-image: //images/me-nov24dana.jpg
-featured_image: //images/me-nov24dana.jpg
+image: /images/images/me-nov24dana.jpg
+featured_image: /images/images/me-nov24dana.jpg
 ---
 
 ![](/images/me-nov24dana-1024x768.jpg)

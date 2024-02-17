@@ -2,14 +2,14 @@ baseURL = 'https://americanmonk.org/'
 languageCode = 'en-us'
 title = 'American Monk:  Life with Buddha, Dhamma and Saṅgha'
 theme = 'ananke'
+publishDir = 'docs'
 [[params.ananke_socials]]
-name = "twitter"
-url = "https://twitter.com/GoHugoIO"
+name = 'twitter'
+url = 'https://twitter.com/GoHugoIO'
 
 #paginate = 30 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ''
 enableRobotsTXT = true
-publishDir = 'docs'
 
 
 
@@ -27,7 +27,7 @@ publishDir = 'docs'
   description = "(desk)Life with Buddha, Dhamma, Saṅgha "
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
   background_color_class = 'bg-red'
-  recent_posts_number = 30
+  recent_posts_number = 40
 
 [[params.ananke_socials]]
 [[menu.main]]
@@ -35,18 +35,23 @@ publishDir = 'docs'
     name = "Home"
     url = "/"
     weight = 1
+[[menu.main]]
+    identifier = "posts"
+    name = "Posts"
+    url = "/posts/"
+    weight = 2
 
 [[menu.main]]
     identifier = "about"
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 3
 [[menu.main]]
     identifier = "privacypolicy"
     name = "Privacy Policy"
     url = "/privacy-policy/"
-    weight = 3
+    weight = 4
 [[menu.main]]
     name = "Subscribe"
     url = "/subscribe/"
-    weight = 4
+    weight = 5

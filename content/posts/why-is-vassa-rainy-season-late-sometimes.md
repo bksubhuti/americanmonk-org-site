@@ -9,8 +9,8 @@ tags:
   - rainy-season
 authors: 
   - bksubhuti
-image: //images/good-night-full-moon-moonlight-night.jpg
-featured_image: //images/good-night-full-moon-moonlight-night.jpg
+image: /images/images/good-night-full-moon-moonlight-night.jpg
+featured_image: /images/images/good-night-full-moon-moonlight-night.jpg
 ---
 
 **Please note:** this was written in 2020 but also applies to 2023. Vassa starts on August 1, 2023.

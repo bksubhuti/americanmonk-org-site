@@ -10,8 +10,8 @@ tags:
   - gifts
 authors: 
   - bksubhuti
-image: //images/boxingday.jpg
-featured_image: //images/boxingday.jpg
+image: /images/images/boxingday.jpg
+featured_image: /images/images/boxingday.jpg
 ---
 
 ![](/images/boxingday.jpg)

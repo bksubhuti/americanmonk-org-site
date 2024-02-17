@@ -15,11 +15,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/nomeatbuddha.png
-featured_image: //images/nomeatbuddha.png
+image: /images/images/nomeatbuddha.png
+featured_image: /images/images/nomeatbuddha.png
 ---
 
-[![](/images/nomeatbuddha.png)](https://subhuti.withmetta.net/wp-content/uploads/2018/01/nomeatbuddha.png)
+[![](/images/nomeatbuddha.png)](/images/2018/01/nomeatbuddha.png)
 
 # **Vegetarianism and Theravada Buddhism**
 

@@ -10,8 +10,8 @@ tags:
   - mixing-bowl
 authors: 
   - bksubhuti
-image: //images/twobowls2.jpg
-featured_image: //images/twobowls2.jpg
+image: /images/images/twobowls2.jpg
+featured_image: /images/images/twobowls2.jpg
 ---
 
 ![](/images/twobowls2.jpg)

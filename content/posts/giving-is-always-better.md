@@ -11,8 +11,8 @@ tags:
   - sewing
 authors: 
   - bksubhuti
-image: //images/sunanda-lookup-scaled.jpg
-featured_image: //images/sunanda-lookup-scaled.jpg
+image: /images/images/sunanda-lookup-scaled.jpg
+featured_image: /images/images/sunanda-lookup-scaled.jpg
 ---
 
 ![](/images/sunanda-lookup-1024x576.jpg)

@@ -11,8 +11,8 @@ tags:
   - why-become-a-monk
 authors: 
   - bksubhuti
-image: //images/GFBColorOrig.jpg
-featured_image: //images/GFBColorOrig.jpg
+image: /images/images/GFBColorOrig.jpg
+featured_image: /images/images/GFBColorOrig.jpg
 ---
 
 ![](/images/2020020720314200.jpg)

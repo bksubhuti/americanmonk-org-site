@@ -14,11 +14,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/bowl-sink.jpg
-featured_image: //images/bowl-sink.jpg
+image: /images/images/bowl-sink.jpg
+featured_image: /images/images/bowl-sink.jpg
 ---
 
-[![](/images/bowl-sink.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2017/09/bowl-sink.jpg)
+[![](/images/bowl-sink.jpg)](/images/2017/09/bowl-sink.jpg)
 
 **When should you give to Saṅgha?**
 

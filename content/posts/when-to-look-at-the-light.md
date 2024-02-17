@@ -6,11 +6,11 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: //images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg
-featured_image: //images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg
+image: /images/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg
+featured_image: /images/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg
 ---
 
-[![](/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958-1024x680.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/05/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg)
+[![](/images/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958-1024x680.jpg)](/images/2018/05/MaxPixel.freegreatpicture.com-Meditation-Back-Light-Saint-Aura-Meditating-Yoga-198958.jpg)
 
 Is the light a Nimitta and when should one look at it?
 

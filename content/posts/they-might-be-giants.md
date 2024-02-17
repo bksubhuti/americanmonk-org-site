@@ -3,8 +3,8 @@ title: "They might be Giants"
 date: 2015-04-09
 authors: 
   - bksubhuti
-image: //images/giantmonk-samanera.jpg
-featured_image: //images/giantmonk-samanera.jpg
+image: /images/images/giantmonk-samanera.jpg
+featured_image: /images/images/giantmonk-samanera.jpg
 ---
 
 ![](/images/giantmonk-samanera.jpg)

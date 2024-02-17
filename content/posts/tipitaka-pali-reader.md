@@ -11,8 +11,8 @@ tags:
   - tpr
 authors: 
   - bksubhuti
-image: //images/TPR-billboard.png
-featured_image: //images/TPR-billboard.png
+image: /images/images/TPR-billboard.png
+featured_image: /images/images/TPR-billboard.png
 ---
 
 ![](/images/TPR-billboard-1024x577.png)
@@ -23,19 +23,19 @@ A new beautiful app written in Flutter for all Desktops and Mobile Devices.
 
 ## Download:
 
- [![Windows Store Logo](assets/images/Windows_10_logo.png)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
+ [![Windows Store Logo](/images/Windows_10_logo.png)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms) [(Windows Store)](https://apps.microsoft.com/store/detail/tipitaka-pali-reader/9MTH9TD82TGR?hl=en-ms&gl=ms)
 
- [![Mac OS Store Logo](assets/images/200px-MacOS_logo_2017.svg_.png)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
+ [![Mac OS Store Logo](/images/200px-MacOS_logo_2017.svg_.png)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
 
- [![Flathub Logo](assets/images/flathub-logo-toolbar.svg)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) [(Flathub Store)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)
+ [![Flathub Logo](/images/flathub-logo-toolbar.svg)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader) [(Flathub Store)](https://flathub.org/apps/details/org.americanmonk.TipitakaPaliReader)
 
- [![AppImage Download](assets/images/download-appimage-banner.jpg)](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) [TPR-AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)
+ [![AppImage Download](/images/download-appimage-banner.jpg)](https://github.com/bksubhuti/tipitaka-pali-reader/releases/) [TPR-AppImage](https://github.com/bksubhuti/tipitaka-pali-reader/releases/)
 
 `sudo apt install libfuse2 libsqlite3-dev`
 
- [![Android Store Logo](assets/images/480px-Android-logo.png)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)
+ [![Android Store Logo](/images/480px-Android-logo.png)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapalireader)
 
- [![iOS Store Logo](assets/images/App_Store_iOS_11_Custom_size.png)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(iOS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
+ [![iOS Store Logo](/images/App_Store_iOS_11_Custom_size.png)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949) [(iOS Store)](https://apps.apple.com/us/app/tipitaka-pali-reader/id1541426949)
 
 ## What is new?
 
@@ -112,7 +112,7 @@ Dictionary
 
 ## User Interface Diagram:
 
-![This image has an empty alt attribute; its file name is TPR-MainScreen-1024x500.png](assets/images/TPR-MainScreen-1024x500.png)
+![This image has an empty alt attribute; its file name is TPR-MainScreen-1024x500.png](/images/TPR-MainScreen-1024x500.png)
 
 ## Multiview, Hide/Show, and Expand/Shrink Panel
 

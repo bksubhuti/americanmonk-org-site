@@ -12,8 +12,8 @@ tags:
   - mp3
 authors: 
   - bksubhuti
-image: //images/sept2-2018.png
-featured_image: //images/sept2-2018.png
+image: /images/images/sept2-2018.png
+featured_image: /images/images/sept2-2018.png
 ---
 
 [![](/images/sept2-2018.png)](https://americanmonk.org/wp-content/uploads/2018/09/sept2-2018.png)

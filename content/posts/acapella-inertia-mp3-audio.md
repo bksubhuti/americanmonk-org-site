@@ -6,11 +6,11 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: //images/acapellainertia-mp3.png
-featured_image: //images/acapellainertia-mp3.png
+image: /images/images/acapellainertia-mp3.png
+featured_image: /images/images/acapellainertia-mp3.png
 ---
 
-# [![](/images/acapellainertia-mp3-724x1024.png)](https://subhuti.withmetta.net/wp-content/uploads/2018/02/acapellainertia-mp3.png)
+# [![](/images/acapellainertia-mp3-724x1024.png)](/images/2018/02/acapellainertia-mp3.png)
 
 # A’capella Inertia
 

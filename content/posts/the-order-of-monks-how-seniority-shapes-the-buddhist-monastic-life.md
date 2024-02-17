@@ -13,8 +13,8 @@ tags:
   - vassa
 authors: 
   - bksubhuti
-image: //images/foodLine-052_Bram.jpg
-featured_image: //images/foodLine-052_Bram.jpg
+image: /images/images/foodLine-052_Bram.jpg
+featured_image: /images/images/foodLine-052_Bram.jpg
 ---
 
 ![](/images/Fotos_138_Christian-1024x681.jpg)

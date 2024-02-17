@@ -11,11 +11,11 @@ tags:
   - samatha
 authors: 
   - bksubhuti
-image: //images/concept.jpg
-featured_image: //images/concept.jpg
+image: /images/images/concept.jpg
+featured_image: /images/images/concept.jpg
 ---
 
-[![](/images/concept-1024x683.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/06/concept.jpg)
+[![](/images/concept-1024x683.jpg)](/images/2018/06/concept.jpg)
 
 # The Concept in Breath Meditation
 

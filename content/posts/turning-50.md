@@ -9,8 +9,8 @@ tags:
   - reflection
 authors: 
   - bksubhuti
-image: //images/me-oct62020.jpg
-featured_image: //images/me-oct62020.jpg
+image: /images/images/me-oct62020.jpg
+featured_image: /images/images/me-oct62020.jpg
 ---
 
 Today I turned fifty years of age. A few months ago, I was really happy about it but then as health problems piled up a few weeks ago (which ended up being a 2.5 week allergic reaction), I was unpleasantly reminded that our bodies were only given 40-year warranties and I was ten years overdue. As I told my parents this newly discovered truth that a birthday just means I'm getting older with more problems and eventually death, my father said, "Bhante, we have been 30 years ahead of you with this same stuff."

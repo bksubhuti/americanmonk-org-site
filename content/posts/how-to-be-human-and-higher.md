@@ -13,8 +13,8 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: //images/heavenly-sky-from-rawpixel.jpg
-featured_image: //images/heavenly-sky-from-rawpixel.jpg
+image: /images/images/heavenly-sky-from-rawpixel.jpg
+featured_image: /images/images/heavenly-sky-from-rawpixel.jpg
 ---
 
 ![](/images/heavenly-sky-from-rawpixel-1024x637.jpg)

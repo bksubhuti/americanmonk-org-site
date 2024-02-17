@@ -3,8 +3,8 @@ title: "Some wish for peace, I make it happen"
 date: 2014-10-07
 authors: 
   - bksubhuti
-image: //images/some-wish-for-peace-scaled.jpg
-featured_image: //images/some-wish-for-peace-scaled.jpg
+image: /images/images/some-wish-for-peace-scaled.jpg
+featured_image: /images/images/some-wish-for-peace-scaled.jpg
 ---
 
 ![](/images/some-wish-for-peace-1024x449.jpg)

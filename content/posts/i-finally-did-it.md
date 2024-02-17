@@ -13,11 +13,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/patimokkhabook.jpg
-featured_image: //images/patimokkhabook.jpg
+image: /images/images/patimokkhabook.jpg
+featured_image: /images/images/patimokkhabook.jpg
 ---
 
-[![](/images/patimokkhabook.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2017/10/patimokkhabook.jpg)
+[![](/images/patimokkhabook.jpg)](/images/2017/10/patimokkhabook.jpg)
 
 # I Finally Did It!
 

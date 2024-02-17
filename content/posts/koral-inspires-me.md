@@ -14,8 +14,8 @@ tags:
   - na-uyana
 authors: 
   - bksubhuti
-image: //images/koral-fam.jpg
-featured_image: //images/koral-fam.jpg
+image: /images/images/koral-fam.jpg
+featured_image: /images/images/koral-fam.jpg
 ---
 
 ![](/images/koral-fam-1024x768.jpg)

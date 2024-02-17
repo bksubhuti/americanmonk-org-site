@@ -8,11 +8,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/monkline.jpg
-featured_image: //images/monkline.jpg
+image: /images/images/monkline.jpg
+featured_image: /images/images/monkline.jpg
 ---
 
-\[caption id="attachment\_786" align="alignnone" width="764"\][![Sima of Varanasi Monastery](assets/images/sima3.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/sima3.jpg) Sima of Varanasi Monastery\[/caption\]
+\[caption id="attachment\_786" align="alignnone" width="764"\][![Sima of Varanasi Monastery](/images/sima3.jpg)](/images/2016/05/sima3.jpg) Sima of Varanasi Monastery\[/caption\]
 
  
 
@@ -32,18 +32,18 @@ The pictures you see below are:
 
 2.The three story Dorm and learning building
 
-\[caption id="attachment\_781" align="alignnone" width="1280"\][![3 Story Building](assets/images/3story.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/3story.jpg) 3 Story Building\[/caption\]
+\[caption id="attachment\_781" align="alignnone" width="1280"\][![3 Story Building](/images/3story.jpg)](/images/2016/05/3story.jpg) 3 Story Building\[/caption\]
 
 3\. The new Mahabodhi styled pagoda (which has approx 36 meditation cells “Goenka Style”)  (also inside view too)
 
-[![pagoda](assets/images/pagoda.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/pagoda.jpg) [![pagodainside](assets/images/pagodainside.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/pagodainside.jpg)
+[![pagoda](/images/pagoda.jpg)](/images/2016/05/pagoda.jpg) [![pagodainside](/images/pagodainside.jpg)](/images/2016/05/pagodainside.jpg)
 
 4. The monks in line
 
-[![monkline](assets/images/monkline.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/monkline.jpg)
+[![monkline](/images/monkline.jpg)](/images/2016/05/monkline.jpg)
 
 5\.  Servers donating the meal
 
-[![servers](assets/images/servers.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2016/05/servers.jpg)
+[![servers](/images/servers.jpg)](/images/2016/05/servers.jpg)
 
 To get to Varanasi, simply take a taxi or bus to “Tiger Beer Factory” and look for the red Varanasi sign on the village side of the road. Then follow the signs about 1 mile inside.

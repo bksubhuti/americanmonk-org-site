@@ -12,11 +12,11 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/planc.jpg
-featured_image: //images/planc.jpg
+image: /images/images/planc.jpg
+featured_image: /images/images/planc.jpg
 ---
 
-[![](/images/planc.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2017/12/planc.jpg)
+[![](/images/planc.jpg)](/images/2017/12/planc.jpg)
 
  
 

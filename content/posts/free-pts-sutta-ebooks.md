@@ -12,8 +12,8 @@ tags:
   - samyutta-nikaya
 authors: 
   - bksubhuti
-image: //images/PTS-eBooks.png
-featured_image: //images/PTS-eBooks.png
+image: /images/images/PTS-eBooks.png
+featured_image: /images/images/PTS-eBooks.png
 ---
 
 ![](/images/DN-cover.png)
@@ -42,7 +42,7 @@ Download:
 [![](/images/pdficon.jpeg)](assets/dn-pts-v1.2.pdf) [(PDF 4.5mb)](assets/dn-pts-v1.2.pdf)  
 [![](/images/mobi-icon.png)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi) [(Mobi 1.6mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.mobi)  
 [![](/images/epub.png)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.epub)  
-[![undefined](assets/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3) [(AZW3 2.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3)
+[![undefined](/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3) [(AZW3 2.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/dn/builds/v1.2_2020-07-28/dn-pts-v1.2.azw3)
 
 * * *
 
@@ -54,7 +54,7 @@ Download:
 [![](/images/pdficon.jpeg)](assets/mn-pts-v1.2.pdf) [(PDF 8.5mb)](assets/mn-pts-v1.2.pdf)  
 [![](/images/mobi-icon.png)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.mobi)  
 [![](/images/epub.png)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub) [(ePub 1.0mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.epub)  
-[![undefined](assets/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3) [(AZW3 3.1mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3)
+[![undefined](/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3) [(AZW3 3.1mb)](https://github.com/bksubhuti/buddhadust/blob/master/pts-ebooks/mn/builds/v1.2_2020-07-28/mn-pts-v1.2.azw3)
 
 * * *
 
@@ -66,7 +66,7 @@ Download:
 [![](/images/pdficon.jpeg)](assets/sn-pts-v1.0.pdf) [(PDF 26.4mb)](assets/sn-pts-v1.0.pdf)  
 [![](/images/mobi-icon.png)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi) [(Mobi 6.3mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.mobi)  
 [![](/images/epub.png)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub) [(ePub 2.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.epub)  
-[![undefined](assets/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3) [(AZW3 8.9mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3)
+[![undefined](/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3) [(AZW3 8.9mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/sn/builds/v1.0_2019-11-03/sn-pts-v1.0.azw3)
 
 * * *
 
@@ -80,7 +80,7 @@ Download:
 [![](/images/pdficon.jpeg)](assets/an-pts_v1.1.pdf) [(PDF 24.7mb)](assets/an-pts_v1.1.pdf)  
 [![](/images/mobi-icon.png)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi) [(Mobi 2.4mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.mobi)  
 [![](/images/epub.png)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub) [(ePub 2.5mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.epub)  
-[![undefined](assets/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3) [(AZW3 7.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3)
+[![undefined](/images/azw3-30.jpg)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3) [(AZW3 7.6mb)](https://github.com/bksubhuti/buddhadust/raw/master/pts-ebooks/an/builds/v1.1_2019-11-04/an-pts_v1.1.azw3)
 
 * * *
 

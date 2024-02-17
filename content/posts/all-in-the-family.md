@@ -7,8 +7,8 @@ tags:
   - family
 authors: 
   - bksubhuti
-image: //images/Glickphoto.jpg
-featured_image: //images/Glickphoto.jpg
+image: /images/images/Glickphoto.jpg
+featured_image: /images/images/Glickphoto.jpg
 ---
 
 ![](/images/Glickphoto.jpg)

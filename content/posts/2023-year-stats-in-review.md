@@ -5,8 +5,8 @@ tags:
   - statistics
 authors: 
   - bksubhuti
-image: //images/yearly-chart-2023.png
-featured_image: //images/yearly-chart-2023.png
+image: /images/images/yearly-chart-2023.png
+featured_image: /images/images/yearly-chart-2023.png
 ---
 
 ![](/images/yearly-chart-2023-1024x409.png)

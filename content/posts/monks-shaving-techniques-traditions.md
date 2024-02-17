@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/razorapart.jpg.jpg
-featured_image: //images/razorapart.jpg.jpg
+image: /images/images/razorapart.jpg.jpg
+featured_image: /images/images/razorapart.jpg.jpg
 ---
 
 When it comes to shaving heads, Theravāda Buddhist Monks might be the authority on this issue. It is second nature for monks to shave but perhaps unknown to the rest of the world. In this article, we will discuss the motivation, Buddhist culture and methods for shaving the head and how it is done.
@@ -93,7 +93,7 @@ The razors that we use vary. In Myanmar, we often use the single double sided bl
 
 ![](/images/razorapart.jpg.jpg)
 
-![shaving brush](assets/images/shaving-brush.png)
+![shaving brush](/images/shaving-brush.png)
 
 American Kusaladhamma holding his kit in the center picture.
 
@@ -119,7 +119,7 @@ In Sri Lanka there is a difference between shaving cream and shaving foam. While
 
 ![](/images/shaving-cream.jpg)
 
-![shaving brush](assets/images/shaving-brush.png)
+![shaving brush](/images/shaving-brush.png)
 
 shaving brush
 

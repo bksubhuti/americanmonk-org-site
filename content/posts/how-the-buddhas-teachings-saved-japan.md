@@ -11,15 +11,15 @@ tags:
   - jayewardene
 authors: 
   - bksubhuti
-image: //images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
-featured_image: //images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
+image: /images/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
+featured_image: /images/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg
 ---
 
 ## Introduction:
 
 There was a moment in world history where the Buddha's teachings greatly affected world diplomacy during the Peace Treaty of 1951. We can learn from this type of history and apply the solution in our daily lives. In short, we can stop hatred with loving-kindness.
 
-![J. R. Jayewardene](assets/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg)
+![J. R. Jayewardene](/images/president-jr-jayewardene-of-sri-lanka-exits-from-a-helicopter-and-walks-to-3aeec4.jpg)
 
 President J.R. Jayewardene of Sri Lanka exits from a helicopter and walks to his airplane for departure after a state visit.
 

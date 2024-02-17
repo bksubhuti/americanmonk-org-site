@@ -10,15 +10,15 @@ tags:
   - watch-story
 authors: 
   - bksubhuti
-image: //images/Going-for-broke-cover.jpg
-featured_image: //images/Going-for-broke-cover.jpg
+image: /images/images/Going-for-broke-cover.jpg
+featured_image: /images/images/Going-for-broke-cover.jpg
 ---
 
 [![](/images/Going-for-broke-cover-198x300.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/Going-for-broke-cover.jpg)
 
 **Downloads:**
 
-[![mobiIcon](assets/images/pdficon.jpeg)](assets/going-for-broke-travelogs-on-becoming-a-buddhist-monk.pdf) [![audiobook-icon](assets/images/audiobook-icon.png)](https://archive.org/details/17GoingForBrokeTravelogsOnBecomingABuddhistMonk) 
+[![mobiIcon](/images/pdficon.jpeg)](assets/going-for-broke-travelogs-on-becoming-a-buddhist-monk.pdf) [![audiobook-icon](/images/audiobook-icon.png)](https://archive.org/details/17GoingForBrokeTravelogsOnBecomingABuddhistMonk) 
 
 _Going For Broke: Travelogs On Becoming a Buddhist Monk_ is a compilation of travel stories.  It is an anonymously written book about a lay person who quit his job in order to travel the world and then become a Buddhist Monk.  Most people either love it and read it in a few days or never finish it.
 

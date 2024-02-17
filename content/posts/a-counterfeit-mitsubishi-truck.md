@@ -6,8 +6,8 @@ categories:
   - pa-auk
 authors: 
   - bksubhuti
-image: //images/fake-mitsubishi-truck.jpg
-featured_image: //images/fake-mitsubishi-truck.jpg
+image: /images/images/fake-mitsubishi-truck.jpg
+featured_image: /images/images/fake-mitsubishi-truck.jpg
 ---
 
 From my oldest posts from GPlus in 2015, which are slowly being restored.

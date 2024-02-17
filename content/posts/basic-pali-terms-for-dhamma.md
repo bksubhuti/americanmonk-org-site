@@ -13,8 +13,8 @@ tags:
   - words
 authors: 
   - bksubhuti
-image: //images/Burmese_Kammavaca_Manuscript.jpg
-featured_image: //images/Burmese_Kammavaca_Manuscript.jpg
+image: /images/images/Burmese_Kammavaca_Manuscript.jpg
+featured_image: /images/images/Burmese_Kammavaca_Manuscript.jpg
 ---
 
 ![](/images/Burmese_Kammavaca_Manuscript.jpg)

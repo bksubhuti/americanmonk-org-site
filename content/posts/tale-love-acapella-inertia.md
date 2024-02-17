@@ -12,11 +12,11 @@ tags:
   - samadhi
 authors: 
   - bksubhuti
-image: //images/acapellainertia-story.png
-featured_image: //images/acapellainertia-story.png
+image: /images/images/acapellainertia-story.png
+featured_image: /images/images/acapellainertia-story.png
 ---
 
-# [![](/images/acapellainertia-story-768x1024.png)](https://subhuti.withmetta.net/wp-content/uploads/2018/02/acapellainertia-story.png)
+# [![](/images/acapellainertia-story-768x1024.png)](/images/2018/02/acapellainertia-story.png)
 
 # A Tale of Love and Samādhi Explained:
 

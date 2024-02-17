@@ -10,11 +10,11 @@ tags:
   - varansi
 authors: 
   - bksubhuti
-image: //images/smallpackofNovices.jpg
-featured_image: //images/smallpackofNovices.jpg
+image: /images/images/smallpackofNovices.jpg
+featured_image: /images/images/smallpackofNovices.jpg
 ---
 
-[![](/images/smallpackofNovices.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2017/06/smallpackofNovices.jpg)
+[![](/images/smallpackofNovices.jpg)](/images/2017/06/smallpackofNovices.jpg)
 
 **Update Aug 5:**  I am back at Varansi Monastery , Mingaladone as pictured.
 

@@ -6,11 +6,11 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: //images/meAtItbmu.jpg
-featured_image: //images/meAtItbmu.jpg
+image: /images/images/meAtItbmu.jpg
+featured_image: /images/images/meAtItbmu.jpg
 ---
 
-[![](/images/meAtItbmu-768x1024.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2018/02/meAtItbmu.jpg)
+[![](/images/meAtItbmu-768x1024.jpg)](/images/2018/02/meAtItbmu.jpg)
 
 It seems like that time has come up again. Time surely does happen and so does my anniversary. Now it is 17 years! As usual, for the disclaimer, I am only 11 Vassa in official years. But Wow! Now it is finally starting to seem like a long time!
 

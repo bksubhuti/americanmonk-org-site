@@ -7,8 +7,8 @@ tags:
   - learn-pali
 authors: 
   - bksubhuti
-image: //images/asoka.png
-featured_image: //images/asoka.png
+image: /images/images/asoka.png
+featured_image: /images/images/asoka.png
 ---
 
 ## NOTE: Tipitaka Pāḷi Reader is the new Pāḷi Reading app. Click link below:
@@ -43,9 +43,9 @@ News:
 
 - October 11, 2020: Version 1.06 is now released... Download now...
 
-[![](/images/Windows_10_logo.png)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab) [(Windows Store)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab)   [![](assets/images/200px-MacOS_logo_2017.svg_.png)](https://apps.apple.com/us/app/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/id1541426949) old version 1.06
+[![](/images/Windows_10_logo.png)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab) [(Windows Store)](https://www.microsoft.com/en-us/p/tipitaka-pali-projector/9pkwwvrdvnl4#activetab=pivot:overviewtab)   [![](/images/200px-MacOS_logo_2017.svg_.png)](https://apps.apple.com/us/app/id1541426949) [(Mac OS Store)](https://apps.apple.com/us/app/id1541426949) old version 1.06
 
-[![](/images/debian.png)](https://snapcraft.io/tipitaka-pali-projector)  [(Ubuntu Snap Store)](https://snapcraft.io/tipitaka-pali-projector)    [![](assets/images/200px-.zip_OneDrive_icon.svg_.png)](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/v1.0.6.zip) [(Zip 156MB) for firefox](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/refs/heads/master.zip)
+[![](/images/debian.png)](https://snapcraft.io/tipitaka-pali-projector)  [(Ubuntu Snap Store)](https://snapcraft.io/tipitaka-pali-projector)    [![](/images/200px-.zip_OneDrive_icon.svg_.png)](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/v1.0.6.zip) [(Zip 156MB) for firefox](https://github.com/bksubhuti/Tipitaka-Pali-Projector/archive/refs/heads/master.zip)
 
  ![](/images/480px-Android-logo.png) [(Android Store)](https://play.google.com/store/apps/details?id=com.paauk.tipitakapaliprojector)
 

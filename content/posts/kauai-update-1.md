@@ -5,8 +5,8 @@ categories:
   - kauai
 authors: 
   - bksubhuti
-image: //images/birdsanctuary.jpg
-featured_image: //images/birdsanctuary.jpg
+image: /images/images/birdsanctuary.jpg
+featured_image: /images/images/birdsanctuary.jpg
 ---
 
 Report on Kauai
@@ -41,8 +41,8 @@ Bhikkhu Subhuti
 
 Pictures: Our kuti (close up) and where we meditate and chant. Managers' house from far away. All on the property where we live.
 
-[![IMG_20150627_131127~2](assets/images/IMG_20150627_13112721.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/08/IMG_20150627_13112721.jpg)[![IMG_20150705_152441](assets/images/IMG_20150705_152441.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/08/IMG_20150705_152441.jpg)
+[![IMG_20150627_131127~2](/images/IMG_20150627_13112721.jpg)](/images/2015/08/IMG_20150627_13112721.jpg)[![IMG_20150705_152441](/images/IMG_20150705_152441.jpg)](/images/2015/08/IMG_20150705_152441.jpg)
 
-[![IMG_20150627_132010](assets/images/IMG_20150627_132010.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/08/IMG_20150627_132010.jpg)
+[![IMG_20150627_132010](/images/IMG_20150627_132010.jpg)](/images/2015/08/IMG_20150627_132010.jpg)
 
-[![IMG_20150626_131541](assets/images/IMG_20150626_131541.jpg)](https://subhuti.withmetta.net/wp-content/uploads/2015/08/IMG_20150626_131541.jpg)
+[![IMG_20150626_131541](/images/IMG_20150626_131541.jpg)](/images/2015/08/IMG_20150626_131541.jpg)

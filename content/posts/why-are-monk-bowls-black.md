@@ -14,8 +14,8 @@ tags:
   - vinaya
 authors: 
   - bksubhuti
-image: //images/IMG_20171004_202546.jpg
-featured_image: //images/IMG_20171004_202546.jpg
+image: /images/images/IMG_20171004_202546.jpg
+featured_image: /images/images/IMG_20171004_202546.jpg
 ---
 
 [![](/images/IMG_20150124_1652492-842x1024.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/IMG_20150124_1652492.jpg)
@@ -26,7 +26,7 @@ Today, we have stainless steel bowls, and since steel is made from iron, it also
 
 Above:  A newly baked bowl.  Below are pictures of monks firing their bowls to protect it.  The first pictures are done at Pa-Auk with a gas fire and another is done with a wood fire at Varanasi Monastery in Mingaladon, Yangon.  A metal plate goes above a fire (gas or wood), and an upside down pot with a handle on top serves to help bake the oil onto the bowl.  When it is near to being finished, the blacksmith monk will take some ash and sprinkle it onto the bowl and then he will blow it off.  If the ash sticks to the bowl, it needs more cooking time.  If it blows off clean, then one round of firing is finished.  Usually the monks will do several bowls in the same sitting to conserve fuel.
 
-[![](/images/removing-bowl-1024x876.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/removing-bowl.jpg) [![](assets/images/bakingbowl-848x1024.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/bakingbowl.jpg) [![](assets/images/bowlrack-1024x768.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/bowlrack.jpg)
+[![](/images/removing-bowl-1024x876.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/removing-bowl.jpg) [![](/images/bakingbowl-848x1024.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/bakingbowl.jpg) [![](/images/bowlrack-1024x768.jpg)](https://americanmonk.org/wp-content/uploads/2018/10/bowlrack.jpg)
 
  
 

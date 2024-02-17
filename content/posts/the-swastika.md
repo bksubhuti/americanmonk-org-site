@@ -6,8 +6,8 @@ categories:
   - monk-life
 authors: 
   - bksubhuti
-image: //images/swastika-wikipedia.png
-featured_image: //images/swastika-wikipedia.png
+image: /images/images/swastika-wikipedia.png
+featured_image: /images/images/swastika-wikipedia.png
 ---
 
 Today, as I was washing my bowl, I saw a local Myanmar monk with a swastika tattoo on his arm. As an American and someone with Jewish bloodlines, I am still not used to this no matter how much I know. However, it is important topic for all of you who are new to Buddhism or even for some seasoned Buddhists.
